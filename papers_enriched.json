@@ -1,0 +1,4200 @@
+[
+    {
+        "bvid":  "BV11cbf6mE1e",
+        "url":  "https://www.bilibili.com/video/BV11cbf6mE1e",
+        "bvid_title":  "【神经渲染·Dataset】SPVC:Structured and Panoptic Video Fixing for Cross-Dataset Drivin",
+        "full_title":  "SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering",
+        "venue":  "arXiv 2026",
+        "category":  "神经渲染·Dataset",
+        "arxiv_id":  "2608.17420",
+        "arxiv_url":  "https://arxiv.org/abs/2608.17420",
+        "links":  [
+                      "https://arxiv.org/abs/2608.17420v1",
+                      "https://li00147.github.io/SPVC-Project-Page/"
+                  ],
+        "summary_zh":  "SPVC 用跨数据集伪影感知配对数据训练两阶段可控视频扩散模型，同时修复背景新视角渲染和前景车辆插入伪影。",
+        "duration_s":  952,
+        "views":  120,
+        "pubdate":  "2026-08-20",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV123gL6jEtC",
+        "url":  "https://www.bilibili.com/video/BV123gL6jEtC",
+        "bvid_title":  "【CVPR 2025｜3D理解】PanoGS:Gaussian-based Panoptic Segmentation for 3D Open Vocabula",
+        "full_title":  "PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding",
+        "venue":  "CVPR 2025",
+        "category":  "CVPR 2025｜3D理解",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+                      "https://zju3dv.github.io/panogs"
+                  ],
+        "summary_zh":  "PanoGS 用连续三平面语言场与语言引导图聚类，让 3D Gaussian Splatting 同时回答“是什么”和“是哪一个实例”。",
+        "duration_s":  978,
+        "views":  299,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV12Gg76WEy7",
+        "url":  "https://www.bilibili.com/video/BV12Gg76WEy7",
+        "bvid_title":  "【CVPRW 2025｜3D生成】PanoDreamer:Consistent Text to 360-Degree Scene Generation",
+        "full_title":  "PanoDreamer: Consistent Text to 360-Degree Scene Generation",
+        "venue":  "",
+        "category":  "CVPRW 2025｜3D生成",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+
+                  ],
+        "summary_zh":  "",
+        "duration_s":  1068,
+        "views":  43,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV12Rhw6wEoM",
+        "url":  "https://www.bilibili.com/video/BV12Rhw6wEoM",
+        "bvid_title":  "【3D理解】Joint-Embedding Prediction of Masked Point Tubes for Self-Supervised Learn",
+        "full_title":  "Joint-Embedding Prediction of Masked Point Tubes for Self-Supervised Learning on 4D Point Cloud Videos",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2608.24093",
+        "arxiv_url":  "https://arxiv.org/abs/2608.24093",
+        "links":  [
+                      "https://arxiv.org/abs/2608.24093v1"
+                  ],
+        "summary_zh":  "在 4D 点云视频中，用可见点管上下文预测被遮挡点管的潜在表示，并用 SIGReg 稳定训练。",
+        "duration_s":  1123,
+        "views":  127,
+        "pubdate":  "2026-08-27",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV12V8D6hE8r",
+        "url":  "https://www.bilibili.com/video/BV12V8D6hE8r",
+        "bvid_title":  "【3DGS】GaussVid:Sparse-View Gaussian Splatting with 3D-Aware Video Diffusion Prio",
+        "full_title":  "GaussVid: Sparse-View Gaussian Splatting with 3D-Aware Video Diffusion Priors",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+
+                  ],
+        "summary_zh":  "",
+        "duration_s":  981,
+        "views":  400,
+        "pubdate":  "2026-08-25",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV12XgL6EEEm",
+        "url":  "https://www.bilibili.com/video/BV12XgL6EEEm",
+        "bvid_title":  "【3D重建】Sora3R:Can Video Diffusion Model Reconstruct 4D Geometry?",
+        "full_title":  "Can Video Diffusion Model Reconstruct 4D Geometry?",
+        "venue":  "arXiv 2025",
+        "category":  "3D重建",
+        "arxiv_id":  "2503.21082",
+        "arxiv_url":  "https://arxiv.org/abs/2503.21082",
+        "links":  [
+                      "https://arxiv.org/abs/2503.21082",
+                      "https://wayne-mai.github.io/publication/sora3r_arxiv_2025/"
+                  ],
+        "summary_zh":  "Sora3R 将视频扩散先验迁移到 4D pointmap，证明单目视频可经统一潜空间直接恢复动态几何。",
+        "duration_s":  1023,
+        "views":  204,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV13KbZ6xETb",
+        "url":  "https://www.bilibili.com/video/BV13KbZ6xETb",
+        "bvid_title":  "【SLAM】Scalix:Uncertainty-Aware Scale-Consistent Monocular SLAM",
+        "full_title":  "Scalix: Uncertainty-Aware Scale-Consistent Monocular SLAM",
+        "venue":  "arXiv 2026",
+        "category":  "SLAM",
+        "arxiv_id":  "2608.17553",
+        "arxiv_url":  "https://arxiv.org/abs/2608.17553",
+        "links":  [
+                      "https://arxiv.org/abs/2608.17553v1"
+                  ],
+        "summary_zh":  "将单目深度的 per-frame scale 与 per-pixel uncertainty 纳入可优化的 factor graph，使 SLAM 在室内外场景中恢复 metric-scale、尺度更一致的轨迹。",
+        "duration_s":  901,
+        "views":  347,
+        "pubdate":  "2026-08-20",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV14G8D6wECK",
+        "url":  "https://www.bilibili.com/video/BV14G8D6wECK",
+        "bvid_title":  "【3D重建】NemoSplat:Feed-Forward 4D Gaussian Splatting for Media-Aware Underwater Re",
+        "full_title":  "NemoSplat: Feed-Forward 4D Gaussian Splatting for Media-Aware Underwater Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.22888",
+        "arxiv_url":  "https://arxiv.org/abs/2608.22888",
+        "links":  [
+                      "https://arxiv.org/abs/2608.22888"
+                  ],
+        "summary_zh":  "用几何估计、动态语义分离和物理介质建模，把退化且充满运动目标的水下视频直接变成可渲染的四维高斯场景。",
+        "duration_s":  976,
+        "views":  331,
+        "pubdate":  "2026-08-26",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV14Xh36sEWs",
+        "url":  "https://www.bilibili.com/video/BV14Xh36sEWs",
+        "bvid_title":  "【3D理解】Stream3Dv2:Geometric-Semantic Fusion Enhanced Streaming Zero-Shot 3D Scene",
+        "full_title":  "Stream3Dv2: Geometric-Semantic Fusion Enhanced Streaming Zero-Shot 3D Scene Understanding",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2608.21136",
+        "arxiv_url":  "https://arxiv.org/abs/2608.21136",
+        "links":  [
+                      "https://arxiv.org/abs/2608.21136"
+                  ],
+        "summary_zh":  "以局部多视角和局部到历史的嵌套结构，实现训练免费的流式零样本三维分割，并扩展到检测与语言驱动的场景理解。",
+        "duration_s":  952,
+        "views":  195,
+        "pubdate":  "2026-08-25",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV15n8M6dEQj",
+        "url":  "https://www.bilibili.com/video/BV15n8M6dEQj",
+        "bvid_title":  "【3DGS】DyG²T:Modeling Object Dynamics with 3D Gaussian Temporal-Spatial Particle",
+        "full_title":  "DyGT: Modeling Object Dynamics with 3D Gaussian Temporal-Spatial Particle Graph Transformer",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+
+                  ],
+        "summary_zh":  "从稀疏视角视频重建可追踪的 3D Gaussian 粒子，用空间补全、时间解耦和多尺度粒子图交互预测未来物体运动。",
+        "duration_s":  955,
+        "views":  311,
+        "pubdate":  "2026-08-21",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1818T6SEpE",
+        "url":  "https://www.bilibili.com/video/BV1818T6SEpE",
+        "bvid_title":  "【3D理解】Beyond Placement and Articulation:Usage-Driven Code Scenes for Embodied In",
+        "full_title":  "Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2608.18840",
+        "arxiv_url":  "https://arxiv.org/abs/2608.18840",
+        "links":  [
+                      "https://arxiv.org/abs/2608.18840",
+                      "https://arxiv.org/pdf/2608.18840v1"
+                  ],
+        "summary_zh":  "RoomWright 将房间描述转化为可执行的代码场景：场景内容由活动需求决定，交互由结构化规则驱动，布局由几何与物理校验落地。",
+        "duration_s":  900,
+        "views":  102,
+        "pubdate":  "2026-08-21",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV184hA6gEGs",
+        "url":  "https://www.bilibili.com/video/BV184hA6gEGs",
+        "bvid_title":  "【3D理解】Concept-Guided Exploration:Building Persistent, Actionable Scene Graphs",
+        "full_title":  "Concept-Guided Exploration: Building Persistent, Actionable Scene Graphs",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2608.23650",
+        "arxiv_url":  "https://arxiv.org/abs/2608.23650",
+        "links":  [
+                      "https://arxiv.org/abs/2608.23650v1"
+                  ],
+        "summary_zh":  "从无先验全局地图开始，以异步房间与门概念代理增量构建可行动的持久场景图。",
+        "duration_s":  974,
+        "views":  72,
+        "pubdate":  "2026-08-27",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV197tN6VEkV",
+        "url":  "https://www.bilibili.com/video/BV197tN6VEkV",
+        "bvid_title":  "【CVPR 2025｜3D重建】FLARE:Feed-Forward Geometry, Appearance and Camera Estimation fr",
+        "full_title":  "FLARE: Feed-Forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views",
+        "venue":  "CVPR 2025",
+        "category":  "CVPR 2025｜3D重建",
+        "arxiv_id":  "2502.12138",
+        "arxiv_url":  "https://arxiv.org/abs/2502.12138",
+        "links":  [
+                      "https://arxiv.org/abs/2502.12138",
+                      "https://github.com/robbyant-research/FLARE"
+                  ],
+        "summary_zh":  "以相机位姿为中间几何代理，把稀疏视图中的位姿、局部点图、全局场景和三维高斯外观串成一个可微的前馈系统。",
+        "duration_s":  1137,
+        "views":  256,
+        "pubdate":  "2026-08-28",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV19fgj6AEbd",
+        "url":  "https://www.bilibili.com/video/BV19fgj6AEbd",
+        "bvid_title":  "【3D生成】Prim2Room:Layout-Controllable Room Mesh Generation from Primitives",
+        "full_title":  "Prim2Room: Layout-Controllable Room Mesh Generation from Primitives",
+        "venue":  "arXiv 2024",
+        "category":  "3D生成",
+        "arxiv_id":  "2409.05380",
+        "arxiv_url":  "https://arxiv.org/abs/2409.05380",
+        "links":  [
+                      "https://arxiv.org/abs/2409.05380"
+                  ],
+        "summary_zh":  "以 2D 布局框 + 3D primitive 提供精确条件，再通过自适应视点、迭代生成与非刚性深度配准得到带纹理的房间网格。",
+        "duration_s":  1057,
+        "views":  42,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1A6hG6pEki",
+        "url":  "https://www.bilibili.com/video/BV1A6hG6pEki",
+        "bvid_title":  "【3D理解】ArtiMo:Agent-Driven Articulated Mesh Animation",
+        "full_title":  "ArtiMo: Agent-Driven Articulated Mesh Animation",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2608.20699",
+        "arxiv_url":  "https://arxiv.org/abs/2608.20699",
+        "links":  [
+                      "https://arxiv.org/abs/2608.20699",
+                      "https://zou-2004.github.io/ArtiMo/"
+                  ],
+        "summary_zh":  "用 URDF 的低层运动约束承接 VLM/LLM 的语义与因果推理，并通过视觉 critic 迭代修正文本驱动的可动部件动画。",
+        "duration_s":  942,
+        "views":  113,
+        "pubdate":  "2026-08-25",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1Aogw6uEW6",
+        "url":  "https://www.bilibili.com/video/BV1Aogw6uEW6",
+        "bvid_title":  "【SIGGRAPH 2026｜3D重建】StudioRecon:4D Human-Scene Reconstruction from Low-Overlap C",
+        "full_title":  "StudioRecon：低重叠相机下的4D人体-场景重建",
+        "venue":  "",
+        "category":  "SIGGRAPH 2026｜3D重建",
+        "arxiv_id":  "2607.09125",
+        "arxiv_url":  "https://arxiv.org/abs/2607.09125",
+        "links":  [
+                      "https://arxiv.org/abs/2607.09125",
+                      "https://sisyphm.github.io/studiorecon-page/"
+                  ],
+        "summary_zh":  "",
+        "duration_s":  885,
+        "views":  104,
+        "pubdate":  "2026-08-14",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1B1br69Eou",
+        "url":  "https://www.bilibili.com/video/BV1B1br69Eou",
+        "bvid_title":  "【神经渲染】CoANeRV:Coordinate-Aware Token-Space Neural Video Representation",
+        "full_title":  "CoANeRV: Coordinate-Aware Token-Space Neural Video Representation",
+        "venue":  "arXiv 2026",
+        "category":  "神经渲染",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+
+                  ],
+        "summary_zh":  "",
+        "duration_s":  1340,
+        "views":  102,
+        "pubdate":  "2026-08-18",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1B8gL6PEcc",
+        "url":  "https://www.bilibili.com/video/BV1B8gL6PEcc",
+        "bvid_title":  "【CVPR 2025｜3D理解】OpenFunGraph:Open-Vocabulary Functional 3D Scene Graphs for Real",
+        "full_title":  "Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces",
+        "venue":  "CVPR 2025",
+        "category":  "CVPR 2025｜3D理解",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+                      "https://openfungraph.github.io"
+                  ],
+        "summary_zh":  "从 posed RGB-D 序列构建开放词汇功能 3D 场景图，让对象、可交互部件与“如何作用”进入同一图表示。",
+        "duration_s":  928,
+        "views":  68,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1BkhM6vEBD",
+        "url":  "https://www.bilibili.com/video/BV1BkhM6vEBD",
+        "bvid_title":  "【3D理解】MV2GF:Multi-view Pedestrian Detection with a Visual Geometric Foundation M",
+        "full_title":  "MV2GF: Multi-view Pedestrian Detection with a Visual Geometric Foundation Model",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2608.20639",
+        "arxiv_url":  "https://arxiv.org/abs/2608.20639",
+        "links":  [
+                      "https://arxiv.org/abs/2608.20639"
+                  ],
+        "summary_zh":  "用冻结的视觉几何基础模型提供跨视角几何，用 TGF 与 FPA 把它转化为更稳健的鸟瞰图检测。",
+        "duration_s":  894,
+        "views":  282,
+        "pubdate":  "2026-08-25",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1C7gL6GEpj",
+        "url":  "https://www.bilibili.com/video/BV1C7gL6GEpj",
+        "bvid_title":  "【NeurIPS 2025｜深度估计】Pixel-Perfect Depth with Semantics-Prompted Diffusion Transfo",
+        "full_title":  "Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers",
+        "venue":  "NeurIPS 2025",
+        "category":  "NeurIPS 2025｜深度估计",
+        "arxiv_id":  "2510.07316",
+        "arxiv_url":  "https://arxiv.org/abs/2510.07316",
+        "links":  [
+                      "https://arxiv.org/abs/2510.07316",
+                      "https://pixel-perfect-depth.github.io"
+                  ],
+        "summary_zh":  "直接在像素空间生成深度，以语义提示和粗到细 DiT 同时守住全局结构、边缘细节与计算效率。",
+        "duration_s":  1025,
+        "views":  63,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1DKg76tECf",
+        "url":  "https://www.bilibili.com/video/BV1DKg76tECf",
+        "bvid_title":  "【IROS 2024｜3D重建】OpenOcc:Open Vocabulary 3D Scene Reconstruction via Occupancy Re",
+        "full_title":  "OpenOcc: Open Vocabulary 3D Scene Reconstruction via Occupancy Representation",
+        "venue":  "IROS 2024",
+        "category":  "IROS 2024｜3D重建",
+        "arxiv_id":  "2403.11796",
+        "arxiv_url":  "https://arxiv.org/abs/2403.11796",
+        "links":  [
+                      "https://doi.org/10.1109/IROS58592.2024.10801860",
+                      "https://arxiv.org/abs/2403.11796"
+                  ],
+        "summary_zh":  "用同一套 occupancy neural field 同时承载几何表面与开放词汇语言特征，并用 SCP 抑制跨视角语义噪声。",
+        "duration_s":  965,
+        "views":  116,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1DUgJ6qEZs",
+        "url":  "https://www.bilibili.com/video/BV1DUgJ6qEZs",
+        "bvid_title":  "【3D重建】OmniIndoor3D:Comprehensive Indoor 3D Reconstruction",
+        "full_title":  "OmniIndoor3D: Comprehensive Indoor 3D Reconstruction",
+        "venue":  "arXiv 2025",
+        "category":  "3D重建",
+        "arxiv_id":  "2505.20610",
+        "arxiv_url":  "https://arxiv.org/abs/2505.20610",
+        "links":  [
+                      "https://arxiv.org/abs/2505.20610",
+                      "https://ucwxb.github.io/OmniIndoor3D/"
+                  ],
+        "summary_zh":  "用统一的 3D Gaussian 表示联合重建室内场景的外观、几何与全景语义。",
+        "duration_s":  925,
+        "views":  138,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1DzhF6eExB",
+        "url":  "https://www.bilibili.com/video/BV1DzhF6eExB",
+        "bvid_title":  "【3D重建】NeoWorld-Pro:Programming Interactive Scenes from Monocular Images for Embo",
+        "full_title":  "NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.24212",
+        "arxiv_url":  "https://arxiv.org/abs/2608.24212",
+        "links":  [
+                      "https://arxiv.org/abs/2608.24212v1"
+                  ],
+        "summary_zh":  "将单目场景重建改写为多模态大模型驱动的程序合成，并用对象级与场景级物理反馈，把外观、运动结构和空间关系一起优化到可仿真、可交互。",
+        "duration_s":  951,
+        "views":  180,
+        "pubdate":  "2026-08-27",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1E64f6NE8H",
+        "url":  "https://www.bilibili.com/video/BV1E64f6NE8H",
+        "bvid_title":  "【3D重建·Benchmark】PIVOT:A Multi-Trajectory Dataset and Testbed for Pose, Intrinsic",
+        "full_title":  "PIVOT: A Multi-Trajectory Dataset and Testbed for Pose, Intrinsics, and Novel Viewpoint Evaluation in Real-World 3D Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建·Benchmark",
+        "arxiv_id":  "2608.25401",
+        "arxiv_url":  "https://arxiv.org/abs/2608.25401",
+        "links":  [
+                      "https://arxiv.org/abs/2608.25401v1"
+                  ],
+        "summary_zh":  "用显式轨迹身份、双重姿态与双重内参，测量三维重建在更接近部署条件时的表现。",
+        "duration_s":  889,
+        "views":  140,
+        "pubdate":  "2026-08-28",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1EShG6jEej",
+        "url":  "https://www.bilibili.com/video/BV1EShG6jEej",
+        "bvid_title":  "【3D理解】Generating Multi-view Adversarial Examples for Visual Geometry Grounded Tr",
+        "full_title":  "Generating Multi-view Adversarial Examples for Visual Geometry Grounded Transformer",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2608.20748",
+        "arxiv_url":  "https://arxiv.org/abs/2608.20748",
+        "links":  [
+                      "https://arxiv.org/abs/2608.20748"
+                  ],
+        "summary_zh":  "MVAP-G 学习一个具备跨视角对齐能力的生成器，在单次前向过程中产生多视图一致的隐形扰动，从而显著破坏 VGGT 的三维重建。",
+        "duration_s":  1130,
+        "views":  268,
+        "pubdate":  "2026-08-25",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1EkgG6bELt",
+        "url":  "https://www.bilibili.com/video/BV1EkgG6bELt",
+        "bvid_title":  "【3D理解】OccAnyScene:Towards Unified Indoor-Outdoor 3D Occupancy Prediction",
+        "full_title":  "OccAnyScene: Towards Unified Indoor-Outdoor 3D Occupancy Prediction",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2608.08696",
+        "arxiv_url":  "https://arxiv.org/abs/2608.08696",
+        "links":  [
+                      "https://arxiv.org/abs/2608.08696v1",
+                      "https://RoboPerception.github.io/OccAnyScene/",
+                      "https://github.com/RoboPercepti"
+                  ],
+        "summary_zh":  "用像素视锥约束连续三维高斯，让同一个模型同时适配室内单目与室外环视占用协议。",
+        "duration_s":  630,
+        "views":  136,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1Fr8B69End",
+        "url":  "https://www.bilibili.com/video/BV1Fr8B69End",
+        "bvid_title":  "【3DGS】Habitat-GS:A High-Fidelity Navigation Simulator with Dynamic Gaussian Spla",
+        "full_title":  "Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2604.12626",
+        "arxiv_url":  "https://arxiv.org/abs/2604.12626",
+        "links":  [
+                      "https://arxiv.org/abs/2604.12626v1"
+                  ],
+        "summary_zh":  "用 3DGS 提升仿真视觉，用可驱动的高斯头像表达动态人类，再用代理胶囊把视觉实体接入导航碰撞。",
+        "duration_s":  977,
+        "views":  163,
+        "pubdate":  "2026-08-21",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Fsbd6vEWU",
+        "url":  "https://www.bilibili.com/video/BV1Fsbd6vEWU",
+        "bvid_title":  "【3D重建】GeoWeaver:Accurate Long-Sequence 3D Reconstruction via Hierarchical Geomet",
+        "full_title":  "GeoWeaver: Accurate Long-Sequence 3D Reconstruction via Hierarchical Geometric Assembly",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.17389",
+        "arxiv_url":  "https://arxiv.org/abs/2608.17389",
+        "links":  [
+                      "https://arxiv.org/abs/2608.17389",
+                      "http://kosmoresearch.github.io/GeoWeaver/"
+                  ],
+        "summary_zh":  "用可调的分块几何先验作为起点，再以三阶段测试时适配把局部预测组装成全局一致的长序列重建。",
+        "duration_s":  1097,
+        "views":  244,
+        "pubdate":  "2026-08-19",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1GKbZ6xEp8",
+        "url":  "https://www.bilibili.com/video/BV1GKbZ6xEp8",
+        "bvid_title":  "【ECCV 2026｜3D理解】MemTree3D:Memory Tree Guided Key Frame Querying for Efficient 3D",
+        "full_title":  "Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering",
+        "venue":  "arXiv 2026",
+        "category":  "ECCV 2026｜3D理解",
+        "arxiv_id":  "2608.18009",
+        "arxiv_url":  "https://arxiv.org/abs/2608.18009",
+        "links":  [
+                      "https://arxiv.org/abs/2608.18009v1",
+                      "https://github.com/hsiangwei0903/MemTree3D"
+                  ],
+        "summary_zh":  "用一次构建的 MemTree3D 让 LLM 先做空间—时间检索，再把少量关键帧交给 VLM，从而减少逐查询的全视频视觉搜索。",
+        "duration_s":  1004,
+        "views":  353,
+        "pubdate":  "2026-08-20",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1GntN6GEnX",
+        "url":  "https://www.bilibili.com/video/BV1GntN6GEnX",
+        "bvid_title":  "【SLAM】LingBot-Map:Geometric Context Transformer for Streaming 3D Reconstruction",
+        "full_title":  "Geometric Context Transformer for Streaming 3D Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "SLAM",
+        "arxiv_id":  "2604.14141",
+        "arxiv_url":  "https://arxiv.org/abs/2604.14141",
+        "links":  [
+                      "https://arxiv.org/abs/2604.14141v2",
+                      "https://github.com/Robbyant/lingbot-map"
+                  ],
+        "summary_zh":  "LingBot-Map 用学习到的三层几何上下文，在单次前向流式推理中抵抗长序列漂移。",
+        "duration_s":  875,
+        "views":  600,
+        "pubdate":  "2026-08-28",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1GpgE6iERZ",
+        "url":  "https://www.bilibili.com/video/BV1GpgE6iERZ",
+        "bvid_title":  "【3D生成】Uni-3DAR:Unified 3D Generation and Understanding via Autoregression on Com",
+        "full_title":  "Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens",
+        "venue":  "arXiv 2025",
+        "category":  "3D生成",
+        "arxiv_id":  "2503.16278",
+        "arxiv_url":  "https://arxiv.org/abs/2503.16278",
+        "links":  [
+                      "https://arxiv.org/abs/2503.16278",
+                      "https://g"
+                  ],
+        "summary_zh":  "用八叉树压缩空间 Token 与 Masked Next-Token Prediction，把多类 3D 生成、Token 级理解和结构级理解纳入同一自回归接口。",
+        "duration_s":  988,
+        "views":  69,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1GxgE6eEwe",
+        "url":  "https://www.bilibili.com/video/BV1GxgE6eEwe",
+        "bvid_title":  "【CVPR 2025｜3D生成】TRELLIS:Structured 3D Latents for Scalable and Versatile 3D Gene",
+        "full_title":  "Structured 3D Latents for Scalable and Versatile 3D Generation",
+        "venue":  "CVPR Spotlight 2025",
+        "category":  "CVPR 2025｜3D生成",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+
+                  ],
+        "summary_zh":  "TRELLIS 以稀疏体素承载局部视觉潜变量，在一个统一的 SLAT 空间中兼顾几何、外观、多格式解码与局部编辑。",
+        "duration_s":  989,
+        "views":  76,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1HJhF6EEf7",
+        "url":  "https://www.bilibili.com/video/BV1HJhF6EEf7",
+        "bvid_title":  "【3D生成】SceneReGen:Generative Reconstruction of 3D Scenes from a Single Image",
+        "full_title":  "SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2608.23930",
+        "arxiv_url":  "https://arxiv.org/abs/2608.23930",
+        "links":  [
+                      "https://arxiv.org/abs/2608.23930v1"
+                  ],
+        "summary_zh":  "以带观察方向的完整物体网格为重建原语，显式估计平移与尺度，组装出共享观察坐标系中的三维场景。",
+        "duration_s":  982,
+        "views":  536,
+        "pubdate":  "2026-08-27",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1HQtn6KEQD",
+        "url":  "https://www.bilibili.com/video/BV1HQtn6KEQD",
+        "bvid_title":  "【3D理解】Generative Semantic Scene Completion",
+        "full_title":  "Generative Semantic Scene Completion",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2608.26737",
+        "arxiv_url":  "https://arxiv.org/abs/2608.26737",
+        "links":  [
+                      "https://arxiv.org/abs/2608.26737v1"
+                  ],
+        "summary_zh":  "GSSC 用一个离散扩散框架覆盖数据合成、从噪声补全和冻结基线修正；其中 S2D2 以一步修正在 SemanticKITTI hidden test 上达到 38.8\\% mIoU。",
+        "duration_s":  1296,
+        "views":  195,
+        "pubdate":  "2026-08-30",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1L58B6GE3T",
+        "url":  "https://www.bilibili.com/video/BV1L58B6GE3T",
+        "bvid_title":  "【深度估计】InfiniDepth:Arbitrary-Resolution and Fine-Grained Depth Estimation with Ne",
+        "full_title":  "InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields",
+        "venue":  "arXiv 2026",
+        "category":  "深度估计",
+        "arxiv_id":  "2601.03252",
+        "arxiv_url":  "https://arxiv.org/abs/2601.03252",
+        "links":  [
+                      "https://arxiv.org/abs/2601.03252v1",
+                      "https://zju3dv.github.io/InfiniDepth"
+                  ],
+        "summary_zh":  "用神经隐式场表示深度，在连续二维坐标上进行局部查询，从而兼顾任意分辨率、细粒度几何与大视角新视图合成。",
+        "duration_s":  980,
+        "views":  151,
+        "pubdate":  "2026-08-21",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1LjgE66EEK",
+        "url":  "https://www.bilibili.com/video/BV1LjgE66EEK",
+        "bvid_title":  "【ACM MM 2025｜3D重建】TextSplat:Text-Guided Semantic Fusion for Generalizable Gaussi",
+        "full_title":  "TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting",
+        "venue":  "ACM Multimedia 2025",
+        "category":  "ACM MM 2025｜3D重建",
+        "arxiv_id":  "2504.09588",
+        "arxiv_url":  "https://arxiv.org/abs/2504.09588",
+        "links":  [
+                      "https://arxiv.org/abs/2504.09588"
+                  ],
+        "summary_zh":  "用文本描述为深度、分割与跨视角三路特征动态分配权重，再解码为可泛化的 3D Gaussians。",
+        "duration_s":  1108,
+        "views":  36,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Myb66iECg",
+        "url":  "https://www.bilibili.com/video/BV1Myb66iECg",
+        "bvid_title":  "【SLAM】ViPE:Video Pose Engine for 3D Geometric Perception",
+        "full_title":  "ViPE: Video Pose Engine for 3D Geometric Perception",
+        "venue":  "arXiv 2025",
+        "category":  "SLAM",
+        "arxiv_id":  "2508.10934",
+        "arxiv_url":  "https://arxiv.org/abs/2508.10934",
+        "links":  [
+                      "https://arxiv.org/abs/2508.10934",
+                      "https://research.nvidia.com/labs/toronto-ai/vipe/"
+                  ],
+        "summary_zh":  "ViPE 把关键帧 SLAM 的可扩展性、学习模型的鲁棒性和度量深度先验放进同一个 BA 框架，",
+        "duration_s":  964,
+        "views":  544,
+        "pubdate":  "2026-08-18",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1N5gL6LE5z",
+        "url":  "https://www.bilibili.com/video/BV1N5gL6LE5z",
+        "bvid_title":  "【ICCV 2025｜3DGS】GaussianFlowOcc:Sparse and Weakly Supervised Occupancy Estimatio",
+        "full_title":  "GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow",
+        "venue":  "ICCV 2025",
+        "category":  "ICCV 2025｜3DGS",
+        "arxiv_id":  "2502.17288",
+        "arxiv_url":  "https://arxiv.org/abs/2502.17288",
+        "links":  [
+                      "https://doi.org/10.48550/arXiv.2502.17288"
+                  ],
+        "summary_zh":  "用稀疏 3D Gaussians、近线性注意力与显式 Gaussian Flow，同时解决弱监督占用估计的效率和动态场景一致性。",
+        "duration_s":  882,
+        "views":  62,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1PdgL67Ek2",
+        "url":  "https://www.bilibili.com/video/BV1PdgL67Ek2",
+        "bvid_title":  "【CVPR 2025｜3DGS】VoxelSplat:Dynamic Gaussian Splatting as an Effective Loss for O",
+        "full_title":  "VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction",
+        "venue":  "arXiv 2025",
+        "category":  "CVPR 2025｜3DGS",
+        "arxiv_id":  "2506.05563",
+        "arxiv_url":  "https://arxiv.org/abs/2506.05563",
+        "links":  [
+                      "https://doi.org/10.48550/arXiv.2506.05563",
+                      "https://zzy816.gith"
+                  ],
+        "summary_zh":  "把动态 3D Gaussians 变成仅训练期启用的渲染正则，同时提升 3D 占用语义与 scene flow，推理阶段零额外开销。",
+        "duration_s":  1145,
+        "views":  201,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Peg56kEE6",
+        "url":  "https://www.bilibili.com/video/BV1Peg56kEE6",
+        "bvid_title":  "【ECCV 2026｜SLAM】SLAM-Former:Putting SLAM into One Transformer",
+        "full_title":  "SLAM-Former: Putting SLAM into One Transformer",
+        "venue":  "ECCV 2026",
+        "category":  "ECCV 2026｜SLAM",
+        "arxiv_id":  "2509.16909",
+        "arxiv_url":  "https://arxiv.org/abs/2509.16909",
+        "links":  [
+                      "https://arxiv.org/abs/2509.16909",
+                      "https://tsinghua-mars-lab.github.io/SLAM-Former"
+                  ],
+        "summary_zh":  "SLAM-Former 用共享权重的 Transformer 同时承担因果前端和全局后端，通过 map tokens 与 KV cache 的循环更新，在线跟踪并周期性修正全局几何。",
+        "duration_s":  822,
+        "views":  1308,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1Pt4f6VELm",
+        "url":  "https://www.bilibili.com/video/BV1Pt4f6VELm",
+        "bvid_title":  "【3D生成】4DStreamCtrl:Interactive Video Generation with Online 4D Control",
+        "full_title":  "4DStreamCtrl: Interactive Video Generation with Online 4D Control",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2608.25479",
+        "arxiv_url":  "https://arxiv.org/abs/2608.25479",
+        "links":  [
+                      "https://arxiv.org/abs/2608.25479v2",
+                      "https://4dstreamctrl.github.io/"
+                  ],
+        "summary_zh":  "用统一的三维点轨迹表达相机、物体和深度控制，并以四步因果蒸馏实现长视频在线生成。",
+        "duration_s":  968,
+        "views":  282,
+        "pubdate":  "2026-08-28",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1QHtN66Er6",
+        "url":  "https://www.bilibili.com/video/BV1QHtN66Er6",
+        "bvid_title":  "【深度估计】DepthLab:From Partial to Complete",
+        "full_title":  "DepthLab: From Partial to Complete",
+        "venue":  "arXiv 2024",
+        "category":  "深度估计",
+        "arxiv_id":  "2412.18153",
+        "arxiv_url":  "https://arxiv.org/abs/2412.18153",
+        "links":  [
+                      "https://arxiv.org/abs/2412.18153v2",
+                      "https://github.com/robbyant-research/DepthLab"
+                  ],
+        "summary_zh":  "用 RGB 图像和已知深度共同条件化扩散模型，在缺失区域预测与已有几何、尺度一致的绝对深度。",
+        "duration_s":  878,
+        "views":  192,
+        "pubdate":  "2026-08-28",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1QTbZ6RESt",
+        "url":  "https://www.bilibili.com/video/BV1QTbZ6RESt",
+        "bvid_title":  "【3D重建】UniQuery4R:Unified 4D Scene Reconstruction from a Single Query",
+        "full_title":  "UniQuery4R: Unified 4D Scene Reconstruction from a Single Query",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.17283",
+        "arxiv_url":  "https://arxiv.org/abs/2608.17283",
+        "links":  [
+                      "https://arxiv.org/abs/2608.17283",
+                      "https://kosmoresearch.github.io/UniQuery4R/"
+                  ],
+        "summary_zh":  "对视频片段先统一编码，再用一个连续源像素查询选择源帧与目标帧；同一查询表示同时解码对应关系、目标时刻三维位置和场景流，并额外预测源深度与相机参数。",
+        "duration_s":  917,
+        "views":  156,
+        "pubdate":  "2026-08-20",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1R6bZ6wE9i",
+        "url":  "https://www.bilibili.com/video/BV1R6bZ6wE9i",
+        "bvid_title":  "【神经渲染】GenRec:Knowing Where to Reconstruct and Where to Generate",
+        "full_title":  "GenRec: Knowing Where to Reconstruct and Where to Generate",
+        "venue":  "arXiv 2026",
+        "category":  "神经渲染",
+        "arxiv_id":  "2608.17832",
+        "arxiv_url":  "https://arxiv.org/abs/2608.17832",
+        "links":  [
+                      "https://arxiv.org/abs/2608.17832",
+                      "https://atcelen.github.io/GenRec/"
+                  ],
+        "summary_zh":  "用 observation mask 把新视角合成拆成“观测区域重建”和“未观测区域生成”，让两类像素分别获得合适的结构、损失与梯度路径。",
+        "duration_s":  943,
+        "views":  984,
+        "pubdate":  "2026-08-20",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1Rdgj6NEjC",
+        "url":  "https://www.bilibili.com/video/BV1Rdgj6NEjC",
+        "bvid_title":  "【CVPR 2025｜3D生成】Prometheus:3D-Aware Latent Diffusion Models for Feed-Forward Tex",
+        "full_title":  "Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation",
+        "venue":  "CVPR 2025",
+        "category":  "CVPR 2025｜3D生成",
+        "arxiv_id":  "2412.21117",
+        "arxiv_url":  "https://arxiv.org/abs/2412.21117",
+        "links":  [
+                      "https://arxiv.org/abs/2412.21117",
+                      "https://openaccess.thecvf.com/content/CVPR2"
+                  ],
+        "summary_zh":  "复用二维生成先验，在 RGB-D 潜空间中联合生成多视图，再直接解码为像素对齐 3D Gaussian。",
+        "duration_s":  919,
+        "views":  229,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1TsGP6dETR",
+        "url":  "https://www.bilibili.com/video/BV1TsGP6dETR",
+        "bvid_title":  "【3D重建】SM4RT:Learning Structured Motion Geometry for 4D Reconstruction",
+        "full_title":  "学习用于 4D 重建的结构化运动几何",
+        "venue":  "arXiv:2607.22534 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+
+                  ],
+        "summary_zh":  "SM4RT 不再逐点预测无约束位移，而是用共享的 SE(3) motion bases 与时序不变的 assignment map 表示“哪些点一起动、它们如何动”。",
+        "duration_s":  792,
+        "views":  268,
+        "pubdate":  "2026-07-31",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1VL8P6CEkD",
+        "url":  "https://www.bilibili.com/video/BV1VL8P6CEkD",
+        "bvid_title":  "【3D理解】Self-Geometry:GT-Free and Plug-and-Play Test-Time Adaptation for Geometric",
+        "full_title":  "Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+                      "https://arxiv.org/abs/2608.1"
+                  ],
+        "summary_zh":  "用测试时提取的 2D 像素对应作为 pseudo-GT，配合显式多视图几何约束与轻量 LoRA 适配，让冻结 VFM 在目标场景中恢复更一致的姿态与几何。",
+        "duration_s":  1036,
+        "views":  295,
+        "pubdate":  "2026-08-20",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1WbgH6FE81",
+        "url":  "https://www.bilibili.com/video/BV1WbgH6FE81",
+        "bvid_title":  "【TPAMI 2025｜3D生成】OccScene:Semantic Occupancy-based Cross-task Mutual Learning fo",
+        "full_title":  "OccScene: Semantic Occupancy-based Cross-task Mutual Learning for 3D Scene Generation",
+        "venue":  "IEEE TPAMI 2025",
+        "category":  "TPAMI 2025｜3D生成",
+        "arxiv_id":  "2412.11183",
+        "arxiv_url":  "https://arxiv.org/abs/2412.11183",
+        "links":  [
+                      "https://arxiv.org/abs/2412.11183"
+                  ],
+        "summary_zh":  "OccScene 用语义占据提供细粒度几何与语义约束，同时让生成结果反过来扩充感知训练数据，形成生成与感知的跨任务互学习。",
+        "duration_s":  958,
+        "views":  157,
+        "pubdate":  "2026-08-13",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1WfgL65EJa",
+        "url":  "https://www.bilibili.com/video/BV1WfgL65EJa",
+        "bvid_title":  "【CVPR 2025｜3D生成】VideoScene:Distilling Video Diffusion Model to Generate 3D Scene",
+        "full_title":  "VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step",
+        "venue":  "arXiv 2025",
+        "category":  "CVPR 2025｜3D生成",
+        "arxiv_id":  "2504.01956",
+        "arxiv_url":  "https://arxiv.org/abs/2504.01956",
+        "links":  [
+                      "https://arxiv.org/abs/2504.01956",
+                      "https://hanyang-21.github.io/VideoScene"
+                  ],
+        "summary_zh":  "从两个稀疏视图构造三维先验，再蒸馏 CogVideoX，使三维一致的视频在单次去噪中生成。",
+        "duration_s":  1284,
+        "views":  71,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Y6g76NEkF",
+        "url":  "https://www.bilibili.com/video/BV1Y6g76NEkF",
+        "bvid_title":  "【ICLR 2026｜3D生成】Scenethesis:A Language and Vision Agentic Framework for 3D Scene",
+        "full_title":  "Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation",
+        "venue":  "arXiv 2025",
+        "category":  "ICLR 2026｜3D生成",
+        "arxiv_id":  "2505.02836",
+        "arxiv_url":  "https://arxiv.org/abs/2505.02836",
+        "links":  [
+                      "https://arxiv.org/abs/2505.02836"
+                  ],
+        "summary_zh":  "",
+        "duration_s":  1044,
+        "views":  65,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1YY8q6gEf3",
+        "url":  "https://www.bilibili.com/video/BV1YY8q6gEf3",
+        "bvid_title":  "【3D重建】CoMVS-GS:Collaborative Multi-View Stereo and 3D Gaussian Splatting for Sur",
+        "full_title":  "CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.18413",
+        "arxiv_url":  "https://arxiv.org/abs/2608.18413",
+        "links":  [
+                      "https://arxiv.org/abs/2608.18413v1"
+                  ],
+        "summary_zh":  "MVS 提供几何证据，3DGS 提供可优化的显式表示，二者共同服务于更准确、更紧凑的表面重建。",
+        "duration_s":  926,
+        "views":  355,
+        "pubdate":  "2026-08-21",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Yrg76eEM2",
+        "url":  "https://www.bilibili.com/video/BV1Yrg76eEM2",
+        "bvid_title":  "【WACV 2026｜3D生成·Benchmark】SceneEval:Evaluating Semantic Coherence in Text-Condit",
+        "full_title":  "SceneEval: Evaluating Semantic Coherence in Text-Conditioned 3D Indoor Scene Synthesis",
+        "venue":  "WACV 2026 Oral",
+        "category":  "WACV 2026｜3D生成·Benchmark",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+                      "https://arxiv.org/abs/"
+                  ],
+        "summary_zh":  "",
+        "duration_s":  942,
+        "views":  20,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Yyg76aEK5",
+        "url":  "https://www.bilibili.com/video/BV1Yyg76aEK5",
+        "bvid_title":  "【CVPR 2025｜神经渲染】StreetCrafter:Street View Synthesis with Controllable Video Diff",
+        "full_title":  "StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models",
+        "venue":  "CVPR 2025",
+        "category":  "CVPR 2025｜神经渲染",
+        "arxiv_id":  "2412.13188",
+        "arxiv_url":  "https://arxiv.org/abs/2412.13188",
+        "links":  [
+                      "https://arxiv.org/abs/2412.13188",
+                      "https://zju3dv.github.io/street_crafter/"
+                  ],
+        "summary_zh":  "用栅格化 LiDAR 作为像素级几何条件控制视频扩散，再将生成先验蒸馏进动态 3DGS，兼顾大视角外推质量、实时渲染与场景编辑。",
+        "duration_s":  1089,
+        "views":  130,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1cU896NErE",
+        "url":  "https://www.bilibili.com/video/BV1cU896NErE",
+        "bvid_title":  "【3D理解】TransHands:Repurposing Human Pose Encoders as Hand Pose Encoders",
+        "full_title":  "TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2608.22341",
+        "arxiv_url":  "https://arxiv.org/abs/2608.22341",
+        "links":  [
+                      "https://arxiv.org/abs/2608.22341v1"
+                  ],
+        "summary_zh":  "用拓扑适配器把二维手部序列映射到人体运动编码器的表示空间，再以部分解冻完成三维手部姿态恢复。",
+        "duration_s":  946,
+        "views":  74,
+        "pubdate":  "2026-08-26",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1cqtW6VEZE",
+        "url":  "https://www.bilibili.com/video/BV1cqtW6VEZE",
+        "bvid_title":  "【3D重建】MILO:Reconstructing Humans and Objects in Interaction using Large Reconstr",
+        "full_title":  "Reconstructing Humans and Objects in Interaction using Large Reconstruction Models",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.27407",
+        "arxiv_url":  "https://arxiv.org/abs/2608.27407",
+        "links":  [
+                      "https://arxiv.org/abs/2608.27407",
+                      "https://ac5113.github.io/MILO"
+                  ],
+        "summary_zh":  "用 LRM 生成的联合人-物 mesh 作为几何支架，再解释出 SMPL-H 人体和可选物体模板。",
+        "duration_s":  918,
+        "views":  138,
+        "pubdate":  "2026-08-30",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1dogj6eEA7",
+        "url":  "https://www.bilibili.com/video/BV1dogj6eEA7",
+        "bvid_title":  "【ECCV 2024｜3D生成】Pyramid Diffusion for Fine 3D Large Scene Generation",
+        "full_title":  "Pyramid Diffusion for Fine 3D Large Scene Generation",
+        "venue":  "ECCV 2024",
+        "category":  "ECCV 2024｜3D生成",
+        "arxiv_id":  "2311.12085",
+        "arxiv_url":  "https://arxiv.org/abs/2311.12085",
+        "links":  [
+                      "https://arxiv.org/abs/2311.12085",
+                      "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08675.pdf",
+                      "https://github.com/yuh"
+                  ],
+        "summary_zh":  "用多个尺度专精的离散扩散模型，把高成本的大场景生成拆成“先定结构、再补细节”的连续过程。",
+        "duration_s":  993,
+        "views":  35,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1fGhA6SE7N",
+        "url":  "https://www.bilibili.com/video/BV1fGhA6SE7N",
+        "bvid_title":  "【3D理解】DDMS:Discriminative Distillation of Multi-view Foundational Features into",
+        "full_title":  "DDMS: Discriminative Distillation of Multi-view Foundational Features into Single-view Models",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2608.23850",
+        "arxiv_url":  "https://arxiv.org/abs/2608.23850",
+        "links":  [
+                      "https://arxiv.org/abs/2608.23850v1"
+                  ],
+        "summary_zh":  "用多视角几何教师监督单视图学生，在增强三维一致性与局部可区分性的同时保留语义迁移能力。",
+        "duration_s":  988,
+        "views":  346,
+        "pubdate":  "2026-08-27",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1hHhG6vE7d",
+        "url":  "https://www.bilibili.com/video/BV1hHhG6vE7d",
+        "bvid_title":  "【3D重建】DiGS-Avatar:Single-Image Animatable 3D Human Reconstruction via UV-Space D",
+        "full_title":  "DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.20759",
+        "arxiv_url":  "https://arxiv.org/abs/2608.20759",
+        "links":  [
+                      "https://arxiv.org/abs/2608.20759v1",
+                      "https://github.com/KLMAV-CUC/DiG"
+                  ],
+        "summary_zh":  "在 canonical UV latent 中完成单图人体的几何与外观，再解码为高保真、可直接动画的 3D Gaussian avatar。",
+        "duration_s":  1036,
+        "views":  49,
+        "pubdate":  "2026-08-25",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1hQgJ6vEaT",
+        "url":  "https://www.bilibili.com/video/BV1hQgJ6vEaT",
+        "bvid_title":  "【RA-L 2024｜3D理解】OpenGraph:Open-Vocabulary Hierarchical 3D Graph Representation i",
+        "full_title":  "OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments",
+        "venue":  "IEEE RA-L 2024",
+        "category":  "RA-L 2024｜3D理解",
+        "arxiv_id":  "2403.09412",
+        "arxiv_url":  "https://arxiv.org/abs/2403.09412",
+        "links":  [
+                      "https://arxiv.org/abs/2403.09412",
+                      "https://doi.org/10.1109/LRA.2024.3445607"
+                  ],
+        "summary_zh":  "用实例 caption 连接视觉与语言推理，再将对象、车道与区域组织成五层户外三维图。",
+        "duration_s":  1087,
+        "views":  189,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1hq8q6qEDv",
+        "url":  "https://www.bilibili.com/video/BV1hq8q6qEDv",
+        "bvid_title":  "【IROS 2026｜3D理解】LT-Mem:Volatility-Aware Spatio-Temporal Memory for Lifelong Scen",
+        "full_title":  "LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding",
+        "venue":  "arXiv 2026",
+        "category":  "IROS 2026｜3D理解",
+        "arxiv_id":  "2608.19059",
+        "arxiv_url":  "https://arxiv.org/abs/2608.19059",
+        "links":  [
+                      "https://arxiv.org/abs/2608.19059v1"
+                  ],
+        "summary_zh":  "用波动性感知的三重记忆，跨会话保存物体身份、状态变化与长期统计，从而回答纵向时空问题。",
+        "duration_s":  902,
+        "views":  56,
+        "pubdate":  "2026-08-21",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1iD8S6jExT",
+        "url":  "https://www.bilibili.com/video/BV1iD8S6jExT",
+        "bvid_title":  "【SLAM】AquaFlow:A Monocular Gaussian Splatting SLAM for Underwater Streaming Reco",
+        "full_title":  "AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "SLAM",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+
+                  ],
+        "summary_zh":  "用水下适配的三维几何先验稳住跟踪，用介质感知初始化和混合场景表示提升流式重建。",
+        "duration_s":  1133,
+        "views":  248,
+        "pubdate":  "2026-08-26",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1iMg568EzA",
+        "url":  "https://www.bilibili.com/video/BV1iMg568EzA",
+        "bvid_title":  "【SLAM】SLAMFormer-∞:Infinite SLAM Transformer for Unbounded Frontend and Backend",
+        "full_title":  "SLAMFormer-∞: Infinite SLAM Transformer for Unbounded Frontend and Backend Processing",
+        "venue":  "arXiv 2026",
+        "category":  "SLAM",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+
+                  ],
+        "summary_zh":  "用 memory condition 把同一个几何 Transformer 延伸到无界长序列，并用 PGGO 同时细化相机轨迹与稠密几何。",
+        "duration_s":  822,
+        "views":  253,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1iQ8S61EA6",
+        "url":  "https://www.bilibili.com/video/BV1iQ8S61EA6",
+        "bvid_title":  "【3D重建】Photorealistic Novel View Synthesis of Human Faces using Next-Scale Transf",
+        "full_title":  "Photorealistic Novel View Synthesis of Human Faces using Next-Scale Transformers",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.23410",
+        "arxiv_url":  "https://arxiv.org/abs/2608.23410",
+        "links":  [
+                      "https://arxiv.org/abs/2608.23410"
+                  ],
+        "summary_zh":  "用 next-scale autoregression 生成一致的人脸多视图，再交给 GS-LRM 类模型 lifting 为三维 Gaussian 表示。",
+        "duration_s":  869,
+        "views":  67,
+        "pubdate":  "2026-08-26",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1ivg76BEyo",
+        "url":  "https://www.bilibili.com/video/BV1ivg76BEyo",
+        "bvid_title":  "【ICCV 2025｜神经渲染】RayZer:A Self-supervised Large View Synthesis Model",
+        "full_title":  "RayZer: A Self-supervised Large View Synthesis Model",
+        "venue":  "ICCV 2025",
+        "category":  "ICCV 2025｜神经渲染",
+        "arxiv_id":  "2505.00702",
+        "arxiv_url":  "https://arxiv.org/abs/2505.00702",
+        "links":  [
+                      "https://arxiv.org/abs/2505.00702",
+                      "https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_RayZer_A_Self-supervised_Large_V"
+                  ],
+        "summary_zh":  "从无位姿、未标定多视图中先预测相机，再重建潜在场景，仅凭 2D 光度监督学习前馈新视角合成。",
+        "duration_s":  972,
+        "views":  65,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1j5hG6gEPy",
+        "url":  "https://www.bilibili.com/video/BV1j5hG6gEPy",
+        "bvid_title":  "【深度估计】M2Depth:Unifying Monocular Depth Foundation Priors with Multi-View Stereo",
+        "full_title":  "M2Depth: Unifying Monocular Depth Foundation Priors with Multi-View Stereo",
+        "venue":  "arXiv 2026",
+        "category":  "深度估计",
+        "arxiv_id":  "2608.20788",
+        "arxiv_url":  "https://arxiv.org/abs/2608.20788",
+        "links":  [
+                      "https://arxiv.org/abs/2608.20788"
+                  ],
+        "summary_zh":  "用 MVS 的度量几何约束校准单目深度，用单目结构先验补足多视图匹配缺失，并通过双向迭代实现统一细化。",
+        "duration_s":  935,
+        "views":  126,
+        "pubdate":  "2026-08-25",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1jugj6qESP",
+        "url":  "https://www.bilibili.com/video/BV1jugj6qESP",
+        "bvid_title":  "【ECCV 2026｜3D重建】ReViV:Reconstructing the Viewer and the View in 4D from Monocula",
+        "full_title":  "ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video",
+        "venue":  "arXiv 2026",
+        "category":  "ECCV 2026｜3D重建",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+                      "https://arxiv.org/pdf/2607.17790v1",
+                      "https://reviv"
+                  ],
+        "summary_zh":  "ReViV 用一个 feed-forward 的 masked multimodal Transformer，从单目 RGB 同时重建观察者身体、手、凝视与相机、深度等视野状态。",
+        "duration_s":  883,
+        "views":  91,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1kHhV6WEc4",
+        "url":  "https://www.bilibili.com/video/BV1kHhV6WEc4",
+        "bvid_title":  "【3D重建】TopoSurfel:Closing the Loop between Gaussian Surfels and Meshes for Surfac",
+        "full_title":  "TopoSurfel: Closing the Loop between Gaussian Surfels and Meshes for Surface Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.20687",
+        "arxiv_url":  "https://arxiv.org/abs/2608.20687",
+        "links":  [
+                      "https://arxiv.org/abs/2608.20687"
+                  ],
+        "summary_zh":  "以参数无关的可微代理网格把高斯表面元与连续表面连接起来，并用网格几何持续指导表面元演化。",
+        "duration_s":  1278,
+        "views":  417,
+        "pubdate":  "2026-08-25",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1mDgL6SExs",
+        "url":  "https://www.bilibili.com/video/BV1mDgL6SExs",
+        "bvid_title":  "【CVPR 2024｜3D生成】RichDreamer:A Generalizable Normal-Depth Diffusion Model for Det",
+        "full_title":  "RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D",
+        "venue":  "arXiv 2023",
+        "category":  "CVPR 2024｜3D生成",
+        "arxiv_id":  "2311.16918",
+        "arxiv_url":  "https://arxiv.org/abs/2311.16918",
+        "links":  [
+                      "https://arxiv.org/abs/2311.16918",
+                      "https://aigc3d.github.io/richdream"
+                  ],
+        "summary_zh":  "用联合 Normal-Depth 几何先验与深度条件 Albedo 先验，推动几何—外观解耦的高细节 Text-to-3D。",
+        "duration_s":  994,
+        "views":  100,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1mVg76XEuC",
+        "url":  "https://www.bilibili.com/video/BV1mVg76XEuC",
+        "bvid_title":  "【TOG 2024｜神经渲染】Representing Long Volumetric Video with Temporal Gaussian Hierarc",
+        "full_title":  "Representing Long Volumetric Video with Temporal Gaussian Hierarchy",
+        "venue":  "",
+        "category":  "TOG 2024｜神经渲染",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+
+                  ],
+        "summary_zh":  "",
+        "duration_s":  1018,
+        "views":  84,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1mhtN6eEYG",
+        "url":  "https://www.bilibili.com/video/BV1mhtN6eEYG",
+        "bvid_title":  "【深度估计】LingBot-Depth:Masked Depth Modeling for Spatial Perception",
+        "full_title":  "Masked Depth Modeling for Spatial Perception",
+        "venue":  "arXiv 2026",
+        "category":  "深度估计",
+        "arxiv_id":  "2601.17895",
+        "arxiv_url":  "https://arxiv.org/abs/2601.17895",
+        "links":  [
+                      "https://arxiv.org/abs/2601.17895",
+                      "https://github.com/Robbyant/lingbot-depth"
+                  ],
+        "summary_zh":  "用 RGB 上下文和有效深度 token 重建传感器缺失区域，学习可迁移的 metric-scale 空间表示。",
+        "duration_s":  883,
+        "views":  590,
+        "pubdate":  "2026-08-28",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1nC8B6pEdm",
+        "url":  "https://www.bilibili.com/video/BV1nC8B6pEdm",
+        "bvid_title":  "【ECCV 2026｜3D生成】GaussianGPT:Towards Autoregressive 3D Gaussian Scene Generation",
+        "full_title":  "GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation",
+        "venue":  "arXiv 2026",
+        "category":  "ECCV 2026｜3D生成",
+        "arxiv_id":  "2603.26661",
+        "arxiv_url":  "https://arxiv.org/abs/2603.26661",
+        "links":  [
+                      "https://arxiv.org/abs/2603.26661"
+                  ],
+        "summary_zh":  "将三维高斯场景压缩为离散空间 token，并用带三维空间先验的因果 Transformer 逐步生成、补全和外推场景。",
+        "duration_s":  938,
+        "views":  506,
+        "pubdate":  "2026-08-21",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1nTgE62Eco",
+        "url":  "https://www.bilibili.com/video/BV1nTgE62Eco",
+        "bvid_title":  "【TPAMI 2026｜深度估计】UniDepthV2:Universal Monocular Metric Depth Estimation Made Sim",
+        "full_title":  "UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler",
+        "venue":  "IEEE TPAMI 2026",
+        "category":  "TPAMI 2026｜深度估计",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+                      "https://doi.org/10.1109/TPAMI.2025.3628473",
+                      "https://github.com/lpiccinelli-eth/UniDepth"
+                  ],
+        "summary_zh":  "仅凭一张 RGB 图像，自举相机表征并直接恢复跨域 metric 3D，同时提升边缘、效率与置信度。",
+        "duration_s":  1031,
+        "views":  218,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1oR8M6aEYm",
+        "url":  "https://www.bilibili.com/video/BV1oR8M6aEYm",
+        "bvid_title":  "【神经渲染】LumiTokens:3D Relighting via Token-Space Lighting Transformation",
+        "full_title":  "LumiTokens: 3D Relighting via Token-Space Lighting Transformation",
+        "venue":  "arXiv 2026",
+        "category":  "神经渲染",
+        "arxiv_id":  "2608.18215",
+        "arxiv_url":  "https://arxiv.org/abs/2608.18215",
+        "links":  [
+                      "https://arxiv.org/abs/2608.18215v1",
+                      "https://neu-vi.github.io/LumiTokens/"
+                  ],
+        "summary_zh":  "LumiTokens 将 3D 重光照改写为潜在场景 token 的直接变换，用统一的光线 token 接入多种光源，并支持逐步、可组合的光照编辑。",
+        "duration_s":  1044,
+        "views":  362,
+        "pubdate":  "2026-08-21",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1oXgj6TEr3",
+        "url":  "https://www.bilibili.com/video/BV1oXgj6TEr3",
+        "bvid_title":  "【CVPR 2025｜3DGS】PanSplat:4K Panorama Synthesis with Feed-Forward Gaussian Splatt",
+        "full_title":  "PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting",
+        "venue":  "CVPR 2025",
+        "category":  "CVPR 2025｜3DGS",
+        "arxiv_id":  "2412.12096",
+        "arxiv_url":  "https://arxiv.org/abs/2412.12096",
+        "links":  [
+                      "https://arxiv.org/abs/2412.12096",
+                      "https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_PanSplat_4K_P"
+                  ],
+        "summary_zh":  "从两张宽基线全景图直接预测球面 3D Gaussian 金字塔，在单张 A100 上训练到 4K。",
+        "duration_s":  1093,
+        "views":  44,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1ohgL6YE5Y",
+        "url":  "https://www.bilibili.com/video/BV1ohgL6YE5Y",
+        "bvid_title":  "【CVPR 2025｜3D理解】UniversalSG:Universal Scene Graph Generation",
+        "full_title":  "Universal Scene Graph Generation",
+        "venue":  "CVPR 2025",
+        "category":  "CVPR 2025｜3D理解",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+                      "https://sqwu.top/USG/"
+                  ],
+        "summary_zh":  "用一个端到端解析器把任意组合的文本、图像、视频与 3D 输入统一为兼顾共享语义和模态特性的场景图。",
+        "duration_s":  1112,
+        "views":  61,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1pN8g6yEDo",
+        "url":  "https://www.bilibili.com/video/BV1pN8g6yEDo",
+        "bvid_title":  "【ACM MM 2026｜3D重建】HiCo-GS:Hierarchical Context Aggregation and Geometric Consist",
+        "full_title":  "HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting (ACM Multimedia (MM \u002726) 2026)",
+        "venue":  "ACM Multimedia (MM \u002726) 2026",
+        "category":  "ACM MM 2026｜3D重建",
+        "arxiv_id":  "2608.14136",
+        "arxiv_url":  "https://arxiv.org/abs/2608.14136",
+        "links":  [
+                      "https://arxiv.org/abs/2608.14136"
+                  ],
+        "summary_zh":  "HiCo-GS 用 CLCA 补上八叉树层级间的上下文通信，再用 DNGC 约束深度与法向的一致性，以更干净的几何重建支撑大规模城市与复杂古塔场景。",
+        "duration_s":  931,
+        "views":  294,
+        "pubdate":  "2026-08-18",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1rQtn6KEWR",
+        "url":  "https://www.bilibili.com/video/BV1rQtn6KEWR",
+        "bvid_title":  "【3DGS】Per-View Gaussian Predictions Enable Training-Free Distractor Filtering in",
+        "full_title":  "Per-View Gaussian Predictions Enable Training-Free Distractor Filtering in Feed-Forward 3DGS",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2608.26951",
+        "arxiv_url":  "https://arxiv.org/abs/2608.26951",
+        "links":  [
+                      "https://arxiv.org/abs/2608.26951"
+                  ],
+        "summary_zh":  "通过暂时排除某个输入视角关联的高斯、在其他输入视角上验证误差是否下降，实现无需训练的干扰物过滤。",
+        "duration_s":  928,
+        "views":  449,
+        "pubdate":  "2026-08-30",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1regH6REwW",
+        "url":  "https://www.bilibili.com/video/BV1regH6REwW",
+        "bvid_title":  "【CVPR 2025｜3DGS】UVGS:Reimagining Unstructured 3D Gaussian Splatting using UV Map",
+        "full_title":  "UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping",
+        "venue":  "CVPR 2025",
+        "category":  "CVPR 2025｜3DGS",
+        "arxiv_id":  "2502.01846",
+        "arxiv_url":  "https://arxiv.org/abs/2502.01846",
+        "links":  [
+                      "https://arxiv.org/abs/2502.01846"
+                  ],
+        "summary_zh":  "UVGS 先把 3D Gaussian primitives 球面展开成有结构的 14 通道 UV map，再压成 3 通道 Super UVGS，从而直接复用成熟的 2D Autoencoder 与 diffusion model。",
+        "duration_s":  1115,
+        "views":  147,
+        "pubdate":  "2026-08-13",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1rpg762EQE",
+        "url":  "https://www.bilibili.com/video/BV1rpg762EQE",
+        "bvid_title":  "【3DGS】RoboGSim:A Real2Sim2Real Robotic Gaussian Splatting Simulator",
+        "full_title":  "RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator",
+        "venue":  "arXiv 2024",
+        "category":  "3DGS",
+        "arxiv_id":  "2411.11839",
+        "arxiv_url":  "https://arxiv.org/abs/2411.11839",
+        "links":  [
+                      "https://arxiv.org/abs/2411.11839",
+                      "https://robogsim.github.io/"
+                  ],
+        "summary_zh":  "以 3DGS 的真实感渲染连接 Isaac Sim 的物理交互，同时服务数据合成与闭环策略评测。",
+        "duration_s":  1015,
+        "views":  257,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1rwhA64ECf",
+        "url":  "https://www.bilibili.com/video/BV1rwhA64ECf",
+        "bvid_title":  "【3D生成】Luce:Relightable Gaussians for 3D Asset Generation",
+        "full_title":  "Luce: Relightable Gaussians for 3D Asset Generation",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2608.23943",
+        "arxiv_url":  "https://arxiv.org/abs/2608.23943",
+        "links":  [
+                      "https://arxiv.org/abs/2608.23943"
+                  ],
+        "summary_zh":  "用多模态 PBR 高斯云和统一潜变量，从单张图像生成可重光照、可导出网格的三维资产。",
+        "duration_s":  976,
+        "views":  187,
+        "pubdate":  "2026-08-27",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1sog76WEaK",
+        "url":  "https://www.bilibili.com/video/BV1sog76WEaK",
+        "bvid_title":  "【CVPR 2017｜3D重建·Dataset】ScanNet:Richly-annotated 3D Reconstructions of Indoor Sc",
+        "full_title":  "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes",
+        "venue":  "CVPR 2017",
+        "category":  "CVPR 2017｜3D重建·Dataset",
+        "arxiv_id":  "1702.04405",
+        "arxiv_url":  "https://arxiv.org/abs/1702.04405",
+        "links":  [
+                      "https://arxiv.org/abs/1702.04405",
+                      "https://www.scan-net.org/",
+                      "https://github.com/ScanNet/ScanNet"
+                  ],
+        "summary_zh":  "把易用 RGB-D 采集、自动三维重建与众包语义标注连成可扩展系统，并以大规模真实数据验证 3D 学习的价值。",
+        "duration_s":  944,
+        "views":  47,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1tDg76tEUc",
+        "url":  "https://www.bilibili.com/video/BV1tDg76tEUc",
+        "bvid_title":  "【CVPR 2025｜3D理解】SGFormer:Satellite-Ground Fusion for 3D Semantic Scene Completio",
+        "full_title":  "SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion",
+        "venue":  "CVPR 2025",
+        "category":  "CVPR 2025｜3D理解",
+        "arxiv_id":  "2503.16825",
+        "arxiv_url":  "https://arxiv.org/abs/2503.16825",
+        "links":  [
+                      "https://arxiv.org/abs/2503.16825",
+                      "https://github.com/gxytcrc/SGFormer"
+                  ],
+        "summary_zh":  "以卫星俯视的全局布局补足地面相机遮挡，再用地面特征校正与自适应融合守住局部几何和动态细节。",
+        "duration_s":  1002,
+        "views":  129,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1vpbf6YEDs",
+        "url":  "https://www.bilibili.com/video/BV1vpbf6YEDs",
+        "bvid_title":  "【3D重建】GroupForward:Building Referable 3D Scenes via Instance-Grouped Feed-Forwar",
+        "full_title":  "GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.17535",
+        "arxiv_url":  "https://arxiv.org/abs/2608.17535",
+        "links":  [
+                      "https://arxiv.org/abs/2608.17535"
+                  ],
+        "summary_zh":  "用低维实例嵌入把高斯基元组织成跨视角一致的三维实例，再让场景图与视觉语言模型完成复杂指代表达式的三维定位。",
+        "duration_s":  1187,
+        "views":  272,
+        "pubdate":  "2026-08-20",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1w68B6sES3",
+        "url":  "https://www.bilibili.com/video/BV1w68B6sES3",
+        "bvid_title":  "【3D生成】Lyra 2.0:Explorable Generative 3D Worlds",
+        "full_title":  "Lyra 2.0: Explorable Generative 3D Worlds",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2604.13036",
+        "arxiv_url":  "https://arxiv.org/abs/2604.13036",
+        "links":  [
+                      "https://arxiv.org/abs/2604.13036v1"
+                  ],
+        "summary_zh":  "用三维几何负责“找对历史”，用视频生成先验负责“生成外观”，再将长视频稳定地提升为可浏览的三维资产。",
+        "duration_s":  1024,
+        "views":  146,
+        "pubdate":  "2026-08-21",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1wxg761EjA",
+        "url":  "https://www.bilibili.com/video/BV1wxg761EjA",
+        "bvid_title":  "【CVPR 2025｜3D理解】RelationField:Relate Anything in Radiance Fields",
+        "full_title":  "RelationField: Relate Anything in Radiance Fields",
+        "venue":  "CVPR 2025",
+        "category":  "CVPR 2025｜3D理解",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+                      "https://openaccess.thecvf.com/content/CVPR2025/html/Koch_RelationField_Relate_Anything_in_Radiance_Fie"
+                  ],
+        "summary_zh":  "把对象间关系作为成对射线上的开放词汇特征蒸馏进辐射场，从 posed RGB 直接支持关系查询、3D scene graph 与关系引导实例分割。",
+        "duration_s":  1079,
+        "views":  74,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1xRg76REQk",
+        "url":  "https://www.bilibili.com/video/BV1xRg76REQk",
+        "bvid_title":  "【CVPR 2025｜3D生成】SAR3D:Autoregressive 3D Object Generation and Understanding via",
+        "full_title":  "SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE",
+        "venue":  "CVPR 2025",
+        "category":  "CVPR 2025｜3D生成",
+        "arxiv_id":  "2411.16856",
+        "arxiv_url":  "https://arxiv.org/abs/2411.16856",
+        "links":  [
+                      "https://arxiv.org/abs/2411.16856",
+                      "https://cyw-3d.github.io/projects/SAR3D/",
+                      "https://github.c"
+                  ],
+        "summary_zh":  "用同一套多尺度 3D 离散 token，把亚秒级条件生成与细粒度 3D 描述连接起来。",
+        "duration_s":  912,
+        "views":  90,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1yJg76UEM4",
+        "url":  "https://www.bilibili.com/video/BV1yJg76UEM4",
+        "bvid_title":  "【3D理解】RoboOcc:Enhancing the Geometric and Semantic Scene Understanding for Robot",
+        "full_title":  "RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots",
+        "venue":  "arXiv 2025",
+        "category":  "3D理解",
+        "arxiv_id":  "2504.14604",
+        "arxiv_url":  "https://arxiv.org/abs/2504.14604",
+        "links":  [
+                      "https://arxiv.org/abs/2504.14604"
+                  ],
+        "summary_zh":  "将 opacity 与椭球 geometry 前移到 Gaussian query 更新过程，缓解重叠语义歧义并细化室内几何建模。",
+        "duration_s":  1029,
+        "views":  202,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1yogL61EXT",
+        "url":  "https://www.bilibili.com/video/BV1yogL61EXT",
+        "bvid_title":  "【ICCV 2025｜3D理解·Benchmark】WorldScore:A Unified Evaluation Benchmark for World Ge",
+        "full_title":  "WorldScore: A Unified Evaluation Benchmark for World Generation",
+        "venue":  "arXiv 2025",
+        "category":  "ICCV 2025｜3D理解·Benchmark",
+        "arxiv_id":  "2504.00983",
+        "arxiv_url":  "https://arxiv.org/abs/2504.00983",
+        "links":  [
+                      "https://arxiv.org/abs/2504.00983",
+                      "https://haoyi-duan.github.io/WorldScore/"
+                  ],
+        "summary_zh":  "把多场景世界生成拆成带相机布局的 next-scene 任务，并用统一的十维指标比较视频、3D 与 4D 生成模型。",
+        "duration_s":  1242,
+        "views":  77,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1yv876TE2h",
+        "url":  "https://www.bilibili.com/video/BV1yv876TE2h",
+        "bvid_title":  "【3D生成】MegaParts:Scaling Part-Aware 3D Object Generation to 300 Parts via Token-E",
+        "full_title":  "MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2608.14783",
+        "arxiv_url":  "https://arxiv.org/abs/2608.14783",
+        "links":  [
+                      "https://arxiv.org/abs/2608.14783",
+                      "https://expmaster.github.io/megapar"
+                  ],
+        "summary_zh":  "用自适应长度的离散部件表示压缩几何，再以长上下文自回归模型统一生成布局、部件框与局部形状。",
+        "duration_s":  960,
+        "views":  57,
+        "pubdate":  "2026-08-19",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1zggE6yEzt",
+        "url":  "https://www.bilibili.com/video/BV1zggE6yEzt",
+        "bvid_title":  "【TPAMI 2025｜3D重建】ViewCrafter:Taming Video Diffusion Models for High-fidelity Nov",
+        "full_title":  "ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis",
+        "venue":  "IEEE TPAMI 2025",
+        "category":  "TPAMI 2025｜3D重建",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+                      "https://doi.org/10.1109/TPAMI.2025.3613256",
+                      "https://drexubery.github.io/View"
+                  ],
+        "summary_zh":  "用点云提供可执行的六自由度相机约束，再让视频扩散模型修复粗糙几何，并通过迭代视角规划把单图拓展为长程一致的新视角序列。",
+        "duration_s":  1150,
+        "views":  76,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1zhg763EM4",
+        "url":  "https://www.bilibili.com/video/BV1zhg763EM4",
+        "bvid_title":  "【ECCV 2024｜3D理解】R3DS:Reality-linked 3D Scenes for Panoramic Scene Understanding",
+        "full_title":  "R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding",
+        "venue":  "ECCV 2024",
+        "category":  "ECCV 2024｜3D理解",
+        "arxiv_id":  "2403.12301",
+        "arxiv_url":  "https://arxiv.org/abs/2403.12301",
+        "links":  [
+                      "https://arxiv.org/abs/2403.12301",
+                      "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8056_ECCV_2024_paper.p"
+                  ],
+        "summary_zh":  "用真实全景约束可编辑的合成三维代理，并把对象对应、支持层级与匹配集合一起交给全景场景理解模型。",
+        "duration_s":  1027,
+        "views":  60,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1zsgL6qE3G",
+        "url":  "https://www.bilibili.com/video/BV1zsgL6qE3G",
+        "bvid_title":  "【ICCV 2025｜3D重建】VistaDream:Sampling multiview consistent images for single-view",
+        "full_title":  "VistaDream: Sampling multiview consistent images for single-view scene reconstruction",
+        "venue":  "ICCV 2025",
+        "category":  "ICCV 2025｜3D重建",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+                      "https://vistadream-projectpage.github.io/"
+                  ],
+        "summary_zh":  "以全局 3D 脚手架稳定场景扩展，再在扩散反演中注入多视图一致性约束，从单张图像重建可自由渲染的 3D Gaussian 场景。",
+        "duration_s":  975,
+        "views":  86,
+        "pubdate":  "2026-08-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1Eitg6iEQ1",
+        "url":  "https://www.bilibili.com/video/BV1Eitg6iEQ1",
+        "bvid_title":  "【深度估计】MAGP:Beyond Relative Geometry:Metric-Aware Geometry Perception for Robotic",
+        "full_title":  "Beyond Relative Geometry: Metric-Aware Geometry Perception for Robotics",
+        "venue":  "arXiv 2026",
+        "category":  "深度估计",
+        "arxiv_id":  "2608.27497",
+        "arxiv_url":  "https://arxiv.org/abs/2608.27497",
+        "links":  [
+                      "https://arxiv.org/abs/2608.27497v1"
+                  ],
+        "summary_zh":  "MAGP 将相机参数与深度观测中的物理尺度注入多视图几何，并通过残差 cross-attention 对接机器人策略。",
+        "duration_s":  923,
+        "views":  140,
+        "pubdate":  "2026-09-01",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1eTtg64Epo",
+        "url":  "https://www.bilibili.com/video/BV1eTtg64Epo",
+        "bvid_title":  "【3D重建】ABot-Recon:Local Context for Long-Horizon Streaming 3D Reconstruction",
+        "full_title":  "Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.27529",
+        "arxiv_url":  "https://arxiv.org/abs/2608.27529",
+        "links":  [
+                      "https://arxiv.org/abs/2608.27529"
+                  ],
+        "summary_zh":  "用当前帧和前 11 帧的 KV 特征做局部几何估计，再组合相邻位姿恢复超长视频的全局轨迹与点云。",
+        "duration_s":  966,
+        "views":  355,
+        "pubdate":  "2026-09-01",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1Bctg68EYU",
+        "url":  "https://www.bilibili.com/video/BV1Bctg68EYU",
+        "bvid_title":  "【3D生成】Cyc3D:Evaluating Cyclic Structural Stability and Asset Usability in Image-",
+        "full_title":  "Cyc3D: Evaluating Cyclic Structural Stability and Asset Usability in Image-to-3D Generation",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2608.28080",
+        "arxiv_url":  "https://arxiv.org/abs/2608.28080",
+        "links":  [
+                      "https://arxiv.org/abs/2608.28080v1"
+                  ],
+        "summary_zh":  "用跨视角一致性、闭环循环稳定性、几何结构、网格和 UV 质量，联合评估图像到三维生成的可靠性。",
+        "duration_s":  974,
+        "views":  70,
+        "pubdate":  "2026-09-01",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1yrtT6vEVJ",
+        "url":  "https://www.bilibili.com/video/BV1yrtT6vEVJ",
+        "bvid_title":  "【3D重建】Manifold4D:Denoising on Point Cloud Rendered Manifolds for Video Re-shooti",
+        "full_title":  "Manifold4D: Denoising on Point Cloud Rendered Manifolds for Video Re-shooting",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.28174",
+        "arxiv_url":  "https://arxiv.org/abs/2608.28174",
+        "links":  [
+                      "https://arxiv.org/abs/2608.28174"
+                  ],
+        "summary_zh":  "把目标视角的点云渲染注入 flow matching 初始噪声，让几何只被信任一次；去噪阶段只保留源视频作为视觉条件。",
+        "duration_s":  907,
+        "views":  360,
+        "pubdate":  "2026-09-01",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1A2tT6AEt2",
+        "url":  "https://www.bilibili.com/video/BV1A2tT6AEt2",
+        "bvid_title":  "【3DGS】WilLaGS:Latent-Conditional 3D Appearance Fields for Robust Gaussian Splatt",
+        "full_title":  "WilLaGS: Latent-Conditional 3D Appearance Fields for Robust Gaussian Splatting In-the-Wild",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2608.28240",
+        "arxiv_url":  "https://arxiv.org/abs/2608.28240",
+        "links":  [
+                      "https://arxiv.org/abs/2608.28240v1"
+                  ],
+        "summary_zh":  "用连续的生成式外观潜空间连接全局风格与局部光照，再用感知一致性掩码抑制瞬态物体。",
+        "duration_s":  1027,
+        "views":  236,
+        "pubdate":  "2026-09-01",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Untg62E3M",
+        "url":  "https://www.bilibili.com/video/BV1Untg62E3M",
+        "bvid_title":  "【3D重建】GeoFF3D:Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UA",
+        "full_title":  "GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.28288",
+        "arxiv_url":  "https://arxiv.org/abs/2608.28288",
+        "links":  [
+                      "https://arxiv.org/abs/2608.28288"
+                  ],
+        "summary_zh":  "用近似地理位置直接定义预测坐标系，再用空间分块、先中心后外围的推理顺序和保持重力方向的层次聚合，完成大规模 UAV 三维重建。",
+        "duration_s":  908,
+        "views":  232,
+        "pubdate":  "2026-09-01",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV12RtL6ZEN8",
+        "url":  "https://www.bilibili.com/video/BV12RtL6ZEN8",
+        "bvid_title":  "【3D重建】SPAR:Dynamic-Robust Photometric-Semantic Reconstruction for Open-Vocabular",
+        "full_title":  "Dynamic-Robust Photometric-Semantic Reconstruction for Open-Vocabulary 3D Scene Understanding",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.29177",
+        "arxiv_url":  "https://arxiv.org/abs/2608.29177",
+        "links":  [
+                      "https://arxiv.org/abs/2608.29177"
+                  ],
+        "summary_zh":  "SPAR 通过跨视角动态区域预测和动态区域感知优化，在无位姿、动态多视角输入下联合完成光度重建与开放词汇语义理解。",
+        "duration_s":  956,
+        "views":  326,
+        "pubdate":  "2026-09-02",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1izt76mEsF",
+        "url":  "https://www.bilibili.com/video/BV1izt76mEsF",
+        "bvid_title":  "【3D生成】Generation of High-Level Concepts in 3D Scene Graphs via Autoregressive Di",
+        "full_title":  "Generation of High-Level Concepts in 3D Scene Graphs via Autoregressive Diffusion",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2608.28733",
+        "arxiv_url":  "https://arxiv.org/abs/2608.28733",
+        "links":  [
+                      "https://arxiv.org/abs/2608.28733v1"
+                  ],
+        "summary_zh":  "从机器人观测的 plane graph 出发，以自回归扩散联合生成结构、语义与三维几何，完成任意深度的层级 3DSG。",
+        "duration_s":  866,
+        "views":  300,
+        "pubdate":  "2026-09-02",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1LBt76EEk4",
+        "url":  "https://www.bilibili.com/video/BV1LBt76EEk4",
+        "bvid_title":  "【3D重建】ReconSplat:Generalizable 3D Scene Reconstruction Beyond Observed Views",
+        "full_title":  "ReconSplat: Generalizable 3D Scene Reconstruction Beyond Observed Views",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.28895",
+        "arxiv_url":  "https://arxiv.org/abs/2608.28895",
+        "links":  [
+                      "https://arxiv.org/abs/2608.28895"
+                  ],
+        "summary_zh":  "仅凭少量带相机位姿的 RGB 观察，同时完成未观测视角的外观补全与几何一致的深度预测。",
+        "duration_s":  920,
+        "views":  542,
+        "pubdate":  "2026-09-02",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1J8t769EGt",
+        "url":  "https://www.bilibili.com/video/BV1J8t769EGt",
+        "bvid_title":  "【3D理解】Chat-Edit-3D++:Interactive 3D and 4D Scene Editing via Large Language Mode",
+        "full_title":  "Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2608.29137",
+        "arxiv_url":  "https://arxiv.org/abs/2608.29137",
+        "links":  [
+                      "https://arxiv.org/abs/2608.29137",
+                      "https://github.com/Fangkang515/CE3D"
+                  ],
+        "summary_zh":  "用二维 atlas 解耦编辑与重建，再由 LLM 调度视觉工具，实现支持多轮对话的 3D/4D 场景编辑。",
+        "duration_s":  941,
+        "views":  144,
+        "pubdate":  "2026-09-02",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Zat76HE6N",
+        "url":  "https://www.bilibili.com/video/BV1Zat76HE6N",
+        "bvid_title":  "【3D生成】ScenePilot:Grow-and-Repair Policy for Text-Driven 3D Indoor Scene Generati",
+        "full_title":  "ScenePilot: Grow-and-Repair Policy for Text-Driven 3D Indoor Scene Generation",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2608.30307",
+        "arxiv_url":  "https://arxiv.org/abs/2608.30307",
+        "links":  [
+                      "https://arxiv.org/abs/2608.30307",
+                      "https://zjw-louie.github.io/ScenePilot"
+                  ],
+        "summary_zh":  "以层次化空间先验规划功能组，以局部到全局的可执行修复稳定逐步生成的三维室内场景。",
+        "duration_s":  949,
+        "views":  82,
+        "pubdate":  "2026-09-02",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV16jtn6FEcv",
+        "url":  "https://www.bilibili.com/video/BV16jtn6FEcv",
+        "bvid_title":  "【3DGS】CapFrame:Text-Instructed Viewpoint Grounding in 3D Gaussian Scenes via Geo",
+        "full_title":  "CapFrame: Text-Instructed Viewpoint Grounding in 3D Gaussian Scenes via Geometric Pseudo Labels",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2608.30342",
+        "arxiv_url":  "https://arxiv.org/abs/2608.30342",
+        "links":  [
+                      "https://arxiv.org/abs/2608.30342",
+                      "https://github.com/jirongli/CapFrame"
+                  ],
+        "summary_zh":  "用 MLLM 把组合式文本转换为方向与布局几何伪标签，再通过 3DGS 可微优化搜索符合描述的相机位姿。",
+        "duration_s":  951,
+        "views":  90,
+        "pubdate":  "2026-09-02",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1vHtn6dEmq",
+        "url":  "https://www.bilibili.com/video/BV1vHtn6dEmq",
+        "bvid_title":  "【3D重建】Lucida:Parse, Generate, and Place for Composable Real-to-Sim Scene Modelin",
+        "full_title":  "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2608.30821",
+        "arxiv_url":  "https://arxiv.org/abs/2608.30821",
+        "links":  [
+                      "https://arxiv.org/abs/2608.30821v1",
+                      "https://lucida-r2s.github.io/"
+                  ],
+        "summary_zh":  "用多视角对象证据完成资产生成，再用闭环九自由度 GizmoAct 把资产精确放回真实场景。",
+        "duration_s":  898,
+        "views":  268,
+        "pubdate":  "2026-09-02",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1vttR6SEV9",
+        "url":  "https://www.bilibili.com/video/BV1vttR6SEV9",
+        "bvid_title":  "【3D重建】On-the-Fly3R:Towards Robust Online 3D Reconstruction with Feed-Forward 3R",
+        "full_title":  "On-the-Fly3R: Towards Robust Online 3D Reconstruction with Feed-Forward 3R Models for Large-Scale UAV Scenarios",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.00923",
+        "arxiv_url":  "https://arxiv.org/abs/2609.00923",
+        "links":  [
+                      "https://arxiv.org/abs/2609.00923v1"
+                  ],
+        "summary_zh":  "用检索构造几何相关的局部上下文，用验证、拒绝、重试阻断错误传播，并以位姿图优化恢复全局一致性。",
+        "duration_s":  833,
+        "views":  372,
+        "pubdate":  "2026-09-03",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1x2tR6qEvZ",
+        "url":  "https://www.bilibili.com/video/BV1x2tR6qEvZ",
+        "bvid_title":  "【3D理解】PLANET:Beyond the Image Plane:World-Grounded Queries for Multi-Object Trac",
+        "full_title":  "Beyond the Image Plane: World-Grounded Queries for Multi-Object Tracking",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.00924",
+        "arxiv_url":  "https://arxiv.org/abs/2609.00924",
+        "links":  [
+                      "https://arxiv.org/abs/2609.00924"
+                  ],
+        "summary_zh":  "PLANET 将重建的三维场景几何注入 query 形成，并用长短期双分辨率记忆保留身份线索。",
+        "duration_s":  844,
+        "views":  285,
+        "pubdate":  "2026-09-03",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1bxtZ6UEe9",
+        "url":  "https://www.bilibili.com/video/BV1bxtZ6UEe9",
+        "bvid_title":  "【深度估计】Monocular Depth Estimation from a Single Image:Progress and Opportunities",
+        "full_title":  "Monocular Depth Estimation from a Single Image: Progress and Opportunities",
+        "venue":  "arXiv 2026",
+        "category":  "深度估计",
+        "arxiv_id":  "2609.01172",
+        "arxiv_url":  "https://arxiv.org/abs/2609.01172",
+        "links":  [
+                      "https://arxiv.org/abs/2609.01172v1"
+                  ],
+        "summary_zh":  "从问题、数据、方法到应用，系统梳理单目深度估计迈向深度基础模型的演进。",
+        "duration_s":  912,
+        "views":  304,
+        "pubdate":  "2026-09-03",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1zFtd6ZES1",
+        "url":  "https://www.bilibili.com/video/BV1zFtd6ZES1",
+        "bvid_title":  "【3D理解】RESELF:Seeing the World and the Self from Egocentric Video",
+        "full_title":  "Seeing the World and the Self from Egocentric Video",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.01276",
+        "arxiv_url":  "https://arxiv.org/abs/2609.01276",
+        "links":  [
+                      "https://arxiv.org/abs/2609.01276"
+                  ],
+        "summary_zh":  "RESELF 用度量几何约束场景，用条件扩散补全自我，再用人体运动反馈修正相机。",
+        "duration_s":  926,
+        "views":  325,
+        "pubdate":  "2026-09-03",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1nZte6zEJD",
+        "url":  "https://www.bilibili.com/video/BV1nZte6zEJD",
+        "bvid_title":  "【3D理解·Benchmark】TAPVid-MV:A Benchmark for Tracking Any Point in 3D Across Multip",
+        "full_title":  "TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解·Benchmark",
+        "arxiv_id":  "2609.01899",
+        "arxiv_url":  "https://arxiv.org/abs/2609.01899",
+        "links":  [
+                      "https://arxiv.org/abs/2609.01899v1",
+                      "https://tapvidmv.github.io"
+                  ],
+        "summary_zh":  "用同步多视角、运动相机和共享三维世界坐标，系统评估任意物理点的长期跟踪，并把跟踪误差与几何重建误差拆开分析。",
+        "duration_s":  910,
+        "views":  44,
+        "pubdate":  "2026-09-04",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1note6gE91",
+        "url":  "https://www.bilibili.com/video/BV1note6gE91",
+        "bvid_title":  "【3DGS】Query Rewriting for Complex Object Segmentation in 4D Gaussian Representat",
+        "full_title":  "Query Rewriting for Complex Object Segmentation in 4D Gaussian Representations",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2609.02664",
+        "arxiv_url":  "https://arxiv.org/abs/2609.02664",
+        "links":  [
+                      "https://arxiv.org/abs/2609.02664"
+                  ],
+        "summary_zh":  "通过 training-free 的多级 query rewriting，去除叙事查询中的语言噪声，让文本 embedding 更贴合 object-centric 4D Gaussian 表示。",
+        "duration_s":  803,
+        "views":  132,
+        "pubdate":  "2026-09-04",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1fktv6BEcD",
+        "url":  "https://www.bilibili.com/video/BV1fktv6BEcD",
+        "bvid_title":  "【3D生成】InceptionGS:Generative Bootstrapping for Large-Scale Gaussian Splatting un",
+        "full_title":  "InceptionGS: Generative Bootstrapping for Large-Scale Gaussian Splatting under Unstructured View Sampling",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.02747",
+        "arxiv_url":  "https://arxiv.org/abs/2609.02747",
+        "links":  [
+                      "https://arxiv.org/abs/2609.02747v1"
+                  ],
+        "summary_zh":  "用场景几何适应生成先验，再以光度融合和视角自适应采样软性更新 3DGS。",
+        "duration_s":  941,
+        "views":  285,
+        "pubdate":  "2026-09-04",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1E8tB65EdW",
+        "url":  "https://www.bilibili.com/video/BV1E8tB65EdW",
+        "bvid_title":  "【3D重建】RoGe:Novel View Synthesis via End-to-End Implicit Reconstruction and Gener",
+        "full_title":  "RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.02847",
+        "arxiv_url":  "https://arxiv.org/abs/2609.02847",
+        "links":  [
+                      "https://arxiv.org/abs/2609.02847v1",
+                      "https://roge.github.io"
+                  ],
+        "summary_zh":  "用相机射线查询隐式几何特征，并与视频 diffusion 端到端联合训练，实现稀疏输入下的可控新视角视频生成。",
+        "duration_s":  790,
+        "views":  178,
+        "pubdate":  "2026-09-04",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1GKbW6tEFM",
+        "url":  "https://www.bilibili.com/video/BV1GKbW6tEFM",
+        "bvid_title":  "【3D理解】Puffin-World:Scaling a Unified Multimodal Model with Native 3D World State",
+        "full_title":  "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.04196",
+        "arxiv_url":  "https://arxiv.org/abs/2609.04196",
+        "links":  [
+                      "https://arxiv.org/abs/2609.04196v1",
+                      "https://kangliao929.github.io/projects/puffin-world/"
+                  ],
+        "summary_zh":  "用物理锚定的相机条件，把相机理解、自由视点生成、三维世界生成与重建统一到同一个多模态模型中。",
+        "duration_s":  894,
+        "views":  92,
+        "pubdate":  "2026-09-06",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV15QbE6HEYG",
+        "url":  "https://www.bilibili.com/video/BV15QbE6HEYG",
+        "bvid_title":  "【3D生成】SPAR3S:Sparse auto-regressive modeling for scene generation from multi-vie",
+        "full_title":  "Sparse auto-regressive modeling for scene generation from multi-view images",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.03931",
+        "arxiv_url":  "https://arxiv.org/abs/2609.03931",
+        "links":  [
+                      "https://arxiv.org/abs/2609.03931v1"
+                  ],
+        "summary_zh":  "在稀疏、无约束的多视图输入下，于稀疏三维潜空间中联合生成未观测区域的几何与外观，并解码为 3D Gaussian Splatting 场景。",
+        "duration_s":  912,
+        "views":  491,
+        "pubdate":  "2026-09-06",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1ajbE6LERG",
+        "url":  "https://www.bilibili.com/video/BV1ajbE6LERG",
+        "bvid_title":  "【3DGS】Rethinking 3D Noise:Learning 3D-Aware Video Priors via Optimization-Free M",
+        "full_title":  "Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2609.03657",
+        "arxiv_url":  "https://arxiv.org/abs/2609.03657",
+        "links":  [
+                      "https://arxiv.org/abs/2609.03657"
+                  ],
+        "summary_zh":  "在三维高斯空间中施加形态扰动，免去逐场景优化，生成多视角一致的训练对，并提升视频扩散模型的几何恢复能力。",
+        "duration_s":  960,
+        "views":  348,
+        "pubdate":  "2026-09-06",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1uubW6xEtX",
+        "url":  "https://www.bilibili.com/video/BV1uubW6xEtX",
+        "bvid_title":  "【3D生成】Z3D:Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Repre",
+        "full_title":  "Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.04174",
+        "arxiv_url":  "https://arxiv.org/abs/2609.04174",
+        "links":  [
+                      "https://arxiv.org/abs/2609.04174",
+                      "https://akola-mbey-denis.github.io/Z3D-page"
+                  ],
+        "summary_zh":  "用冻结的三维基础模型表征作为几何潜空间，通过姿态条件扩散生成未观测视角的深度。",
+        "duration_s":  924,
+        "views":  269,
+        "pubdate":  "2026-09-06",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1hJbE6VE4g",
+        "url":  "https://www.bilibili.com/video/BV1hJbE6VE4g",
+        "bvid_title":  "【3D重建】Scal3R:Learning Efficient Multi-Relative Pose Query for Scalable Online 3D",
+        "full_title":  "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.04201",
+        "arxiv_url":  "https://arxiv.org/abs/2609.04201",
+        "links":  [
+                      "https://arxiv.org/abs/2609.04201v1",
+                      "https://linjohnss.github.io/scal3r/"
+                  ],
+        "summary_zh":  "用多参考相对位姿查询替代脆弱的首帧全局回归，并用在线位姿图优化抑制长序列漂移。",
+        "duration_s":  963,
+        "views":  159,
+        "pubdate":  "2026-09-06",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1h5bE62E6D",
+        "url":  "https://www.bilibili.com/video/BV1h5bE62E6D",
+        "bvid_title":  "【神经渲染】Stabilizing Camera-Controlled Novel View Synthesis at Inference Time",
+        "full_title":  "Stabilizing Camera-Controlled Novel View Synthesis at Inference Time",
+        "venue":  "arXiv 2026",
+        "category":  "神经渲染",
+        "arxiv_id":  "2609.03639",
+        "arxiv_url":  "https://arxiv.org/abs/2609.03639",
+        "links":  [
+                      "https://arxiv.org/abs/2609.03639v1"
+                  ],
+        "summary_zh":  "以小步自回归相机轨迹为主线，在推理时稳定单图像新视角合成，并兼顾几何一致性、外观稳定性与生成效率。",
+        "duration_s":  942,
+        "views":  145,
+        "pubdate":  "2026-09-06",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1Wzb367EwJ",
+        "url":  "https://www.bilibili.com/video/BV1Wzb367EwJ",
+        "bvid_title":  "【3D重建】NavArena:Automated Construction of Goal-Oriented Navigation Benchmarks fro",
+        "full_title":  "NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.04602",
+        "arxiv_url":  "https://arxiv.org/abs/2609.04602",
+        "links":  [
+                      "https://arxiv.org/abs/2609.04602v1"
+                  ],
+        "summary_zh":  "从固定 3DGS 重建中自动推导可行走空间、可达目标与统一闭环评测接口。",
+        "duration_s":  1061,
+        "views":  561,
+        "pubdate":  "2026-09-08",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1ecbG6wEfu",
+        "url":  "https://www.bilibili.com/video/BV1ecbG6wEfu",
+        "bvid_title":  "【3D理解】PriorEdit3D:Learning 3D Editing without Paired Supervision via Generative",
+        "full_title":  "Learning 3D Editing without Paired Supervision via Generative Prior Distillation",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.04942",
+        "arxiv_url":  "https://arxiv.org/abs/2609.04942",
+        "links":  [
+                      "https://arxiv.org/abs/2609.04942",
+                      "https://github.com/thiamine128/PriorEdit3D"
+                  ],
+        "summary_zh":  "用无配对三维监督蒸馏强大的二维、语义与三维生成先验，学习快速、免反演、免三维掩码的三维编辑器。",
+        "duration_s":  899,
+        "views":  201,
+        "pubdate":  "2026-09-08",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1WAbV6SEou",
+        "url":  "https://www.bilibili.com/video/BV1WAbV6SEou",
+        "bvid_title":  "【深度估计】CrossDepth:Geometry-Constrained Attention for Generalizable Multi-View Sur",
+        "full_title":  "CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation",
+        "venue":  "arXiv 2026",
+        "category":  "深度估计",
+        "arxiv_id":  "",
+        "arxiv_url":  "",
+        "links":  [
+
+                  ],
+        "summary_zh":  "用逐像素相机射线嵌入处理内参差异，用共享柱面上的几何约束跨图注意力扩展上下文，并用多种光度一致性实现无深度标签训练。",
+        "duration_s":  934,
+        "views":  436,
+        "pubdate":  "2026-09-08",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1cKbV6mEB7",
+        "url":  "https://www.bilibili.com/video/BV1cKbV6mEB7",
+        "bvid_title":  "【3D重建】MINT:A Unified Model for World-Space Camera and Hand Motion Estimation fro",
+        "full_title":  "MINT: A Unified Model for World-Space Camera and Hand Motion Estimation from Scalable Egocentric Pipeline Supervision",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.04958",
+        "arxiv_url":  "https://arxiv.org/abs/2609.04958",
+        "links":  [
+                      "https://arxiv.org/abs/2609.04958v1"
+                  ],
+        "summary_zh":  "用大规模普通第一视角视频生成结构化运动监督，再以共享时空几何表示在一次前向中同时预测相机、双手和可见性。",
+        "duration_s":  949,
+        "views":  243,
+        "pubdate":  "2026-09-08",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV15GeJ6iELz",
+        "url":  "https://www.bilibili.com/video/BV15GeJ6iELz",
+        "bvid_title":  "【3D重建】VS-Splat:Voxel-Selective feed-forward Gaussian Splatting for end-to-end 3D",
+        "full_title":  "VS-Splat: Voxel-Selective feed-forward Gaussian Splatting for end-to-end 3D object reconstruction from sparse-views",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.12343",
+        "arxiv_url":  "https://arxiv.org/abs/2609.12343",
+        "links":  [
+                      "https://arxiv.org/abs/2609.12343"
+                  ],
+        "summary_zh":  "从四张稀疏视图出发，学习选择物体体素，并只在选中体素内生成密集的细粒度高斯基元。",
+        "duration_s":  980,
+        "views":  297,
+        "pubdate":  "2026-09-15",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1dEYK6FEAx",
+        "url":  "https://www.bilibili.com/video/BV1dEYK6FEAx",
+        "bvid_title":  "【3D重建】FIRE3D:Feed-forward Interactive 3D Scene Reconstruction Within A Minute",
+        "full_title":  "FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.08848",
+        "arxiv_url":  "https://arxiv.org/abs/2609.08848",
+        "links":  [
+                      "https://arxiv.org/abs/2609.08848",
+                      "https://xiahongchi.github.io/Fire3D"
+                  ],
+        "summary_zh":  "从未分割的 RGB 捕获出发，前馈地预测对象级位姿、完整几何和纹理，并在一分钟内组装成可交互场景。",
+        "duration_s":  918,
+        "views":  461,
+        "pubdate":  "2026-09-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1xRYN62EDC",
+        "url":  "https://www.bilibili.com/video/BV1xRYN62EDC",
+        "bvid_title":  "【3D重建】PRG-Fusion:Orchestrating Generative Priors with Reconstruction Evidence fo",
+        "full_title":  "PRG-Fusion: Orchestrating Generative Priors with Reconstruction Evidence for Driving View Synthesis",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.06948",
+        "arxiv_url":  "https://arxiv.org/abs/2609.06948",
+        "links":  [
+                      "https://arxiv.org/abs/2609.06948"
+                  ],
+        "summary_zh":  "用重建可靠性与支持度生成 Preserve、Repair、Generate 标签，让 3DGS 外观、LiDAR 几何和视频先验在不同区域承担不同职责。",
+        "duration_s":  929,
+        "views":  129,
+        "pubdate":  "2026-09-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1T9YN67ESr",
+        "url":  "https://www.bilibili.com/video/BV1T9YN67ESr",
+        "bvid_title":  "【3D重建】AVSplat:Dense-View Feed-Forward 3D Gaussian Splatting with Assist-View Pre",
+        "full_title":  "AVSplat: Dense-View Feed-Forward 3D Gaussian Splatting with Assist-View Preconditioning",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.05925",
+        "arxiv_url":  "https://arxiv.org/abs/2609.05925",
+        "links":  [
+                      "https://arxiv.org/abs/2609.05925v1"
+                  ],
+        "summary_zh":  "在全局聚合前注入相关且互补的辅助视图上下文，并在高占用体素中自适应锐化融合权重，从而恢复密集视角下的正向视角扩展。",
+        "duration_s":  874,
+        "views":  232,
+        "pubdate":  "2026-09-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1TZYN6yEwV",
+        "url":  "https://www.bilibili.com/video/BV1TZYN6yEwV",
+        "bvid_title":  "【3D重建】PASTEL:Panoramic Alignment for Monocular 4D Scene Reconstruction",
+        "full_title":  "PASTEL: Panoramic Alignment for Monocular 4D Scene Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.06099",
+        "arxiv_url":  "https://arxiv.org/abs/2609.06099",
+        "links":  [
+                      "https://arxiv.org/abs/2609.06099"
+                  ],
+        "summary_zh":  "在全景空间中规划连续扩展轨迹，用受控的生成式先验补齐不可见区域，再以策略监督回写四维场景。",
+        "duration_s":  965,
+        "views":  181,
+        "pubdate":  "2026-09-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1EhYN6AEbf",
+        "url":  "https://www.bilibili.com/video/BV1EhYN6AEbf",
+        "bvid_title":  "【3D生成】Scaling 3D Generative Priors to Large-Scale Scene Meshes from Multi-View I",
+        "full_title":  "Scaling 3D Generative Priors to Large-Scale Scene Meshes from Multi-View Images",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.06385",
+        "arxiv_url":  "https://arxiv.org/abs/2609.06385",
+        "links":  [
+                      "https://arxiv.org/abs/2609.06385"
+                  ],
+        "summary_zh":  "以 TRELLIS2 为三维先验，通过自适应分块、局部上下文生成和全局外观对齐，从多视图图像生成连贯的大规模纹理场景网格。",
+        "duration_s":  987,
+        "views":  377,
+        "pubdate":  "2026-09-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1tTY566EvD",
+        "url":  "https://www.bilibili.com/video/BV1tTY566EvD",
+        "bvid_title":  "【3D生成】Guiding Image-to-3D Generation with Test-Time Partial Observations",
+        "full_title":  "Guiding Image-to-3D Generation with Test-Time Partial Observations",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.10531",
+        "arxiv_url":  "https://arxiv.org/abs/2609.10531",
+        "links":  [
+                      "https://arxiv.org/abs/2609.10531"
+                  ],
+        "summary_zh":  "不改动预训练图像到三维模型，在采样过程中用部分几何观测的射线一致性似然修正速度场。",
+        "duration_s":  870,
+        "views":  717,
+        "pubdate":  "2026-09-11",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV13AY56VEyD",
+        "url":  "https://www.bilibili.com/video/BV13AY56VEyD",
+        "bvid_title":  "【3D重建】VGPA:Learning Global Camera Poses from Noisy View-Graphs for Structure fro",
+        "full_title":  "Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.09491",
+        "arxiv_url":  "https://arxiv.org/abs/2609.09491",
+        "links":  [
+                      "https://arxiv.org/abs/2609.09491v1"
+                  ],
+        "summary_zh":  "用边上带噪的相对位姿学习全局相机位姿，再通过三角化和鲁棒束调整恢复结构。",
+        "duration_s":  945,
+        "views":  379,
+        "pubdate":  "2026-09-11",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1fUYV6XEv5",
+        "url":  "https://www.bilibili.com/video/BV1fUYV6XEv5",
+        "bvid_title":  "【深度估计】OmniPoint:Universal Monocular Metric Pointcloud from Any Camera",
+        "full_title":  "OmniPoint: Universal Monocular Metric Pointcloud from Any Camera",
+        "venue":  "arXiv 2026",
+        "category":  "深度估计",
+        "arxiv_id":  "2609.09394",
+        "arxiv_url":  "https://arxiv.org/abs/2609.09394",
+        "links":  [
+                      "https://arxiv.org/abs/2609.09394v1",
+                      "https://botaoye.github.io/omnipoint/"
+                  ],
+        "summary_zh":  "用 camera-agnostic 的 Ray+D 表示，把相机投影几何与场景结构分开学习。",
+        "duration_s":  914,
+        "views":  320,
+        "pubdate":  "2026-09-11",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1LcYE6cEpr",
+        "url":  "https://www.bilibili.com/video/BV1LcYE6cEpr",
+        "bvid_title":  "【3D理解】Geometry Without Coordinates:LiDAR Diffusion as a 3D Feature Bridge",
+        "full_title":  "Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.10322",
+        "arxiv_url":  "https://arxiv.org/abs/2609.10322",
+        "links":  [
+                      "https://arxiv.org/abs/2609.10322v1"
+                  ],
+        "summary_zh":  "在二维伪标签监督下，把 LiDAR 条件扩散模型的中间 activation 回投到点云，并检验其中是否存在不依赖坐标的三维结构。",
+        "duration_s":  868,
+        "views":  117,
+        "pubdate":  "2026-09-11",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1PBYV6hEbR",
+        "url":  "https://www.bilibili.com/video/BV1PBYV6hEbR",
+        "bvid_title":  "【3D重建】RouteBridge:Reliability-Routed Bidirectional Distillation Between Neural R",
+        "full_title":  "RouteBridge: Reliability-Routed Bidirectional Distillation Between Neural Radiance Fields and 3D Gaussian Splatting",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.09606",
+        "arxiv_url":  "https://arxiv.org/abs/2609.09606",
+        "links":  [
+                      "https://arxiv.org/abs/2609.09606v1"
+                  ],
+        "summary_zh":  "以光线为单位估计两种表示的可靠性，选择 NeRF 教 3DGS、3DGS 教 NeRF，或对不可靠样本 abstain。",
+        "duration_s":  932,
+        "views":  83,
+        "pubdate":  "2026-09-11",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1ZiYD6xEZC",
+        "url":  "https://www.bilibili.com/video/BV1ZiYD6xEZC",
+        "bvid_title":  "【深度估计】RIDE:Relocalization-Informed Depth Estimation with 3D Gaussian Splatting",
+        "full_title":  "RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting",
+        "venue":  "arXiv 2026",
+        "category":  "深度估计",
+        "arxiv_id":  "2609.11079",
+        "arxiv_url":  "https://arxiv.org/abs/2609.11079",
+        "links":  [
+                      "https://arxiv.org/abs/2609.11079v1"
+                  ],
+        "summary_zh":  "从 PnP-RANSAC 内点提取稀疏度量锚点，校准冻结的 VDA-S 相对深度先验，输出带有全局、局部及时序一致性的稠密 metric depth。",
+        "duration_s":  980,
+        "views":  189,
+        "pubdate":  "2026-09-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1UXYD6yECx",
+        "url":  "https://www.bilibili.com/video/BV1UXYD6yECx",
+        "bvid_title":  "【3D重建】SAMV-DUSt3R:Instance-Centric 3D Scene Decoupling from Sparse Multi-Views",
+        "full_title":  "SAMV-DUSt3R: Instance-Centric 3D Scene Decoupling from Sparse Multi-Views",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.11279",
+        "arxiv_url":  "https://arxiv.org/abs/2609.11279",
+        "links":  [
+                      "https://arxiv.org/abs/2609.11279"
+                  ],
+        "summary_zh":  "用 prompt 指定目标实例，把 2D 掩码直接注入 MV-DUSt3R，并用空间排序选择更可靠的参考视图，从稀疏 RGB 视图得到目标对象的 3D 点图与置信度。",
+        "duration_s":  949,
+        "views":  152,
+        "pubdate":  "2026-09-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1e4Y96FEkk",
+        "url":  "https://www.bilibili.com/video/BV1e4Y96FEkk",
+        "bvid_title":  "【3DGS】LangStreet:Persistent Language Fields for Anchor-Decoded Street Gaussians",
+        "full_title":  "LangStreet: Persistent Language Fields for Anchor-Decoded Street Gaussians",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2609.11616",
+        "arxiv_url":  "https://arxiv.org/abs/2609.11616",
+        "links":  [
+                      "https://arxiv.org/abs/2609.11616v1"
+                  ],
+        "summary_zh":  "让 view-conditioned children 负责路由观测，让 persistent slots 与 anchors 负责拥有语言；再用完成和 anchor-relative coding 兼顾稠密细节与低存储。",
+        "duration_s":  891,
+        "views":  208,
+        "pubdate":  "2026-09-12",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV17Lec6DEnf",
+        "url":  "https://www.bilibili.com/video/BV17Lec6DEnf",
+        "bvid_title":  "【3D重建】Tele360:Real-Time Feed-Forward Human Reconstruction from Sparse Unposed Ca",
+        "full_title":  "Tele360: Real-Time Feed-Forward Human Reconstruction from Sparse Unposed Cameras",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.15032",
+        "arxiv_url":  "https://arxiv.org/abs/2609.15032",
+        "links":  [
+                      "https://arxiv.org/abs/2609.15032"
+                  ],
+        "summary_zh":  "用 4--6 路无姿态 RGB 视频，前馈预测相机和像素对齐的 3D Gaussian maps，再以视频编解码支持远端自由视点渲染。",
+        "duration_s":  921,
+        "views":  253,
+        "pubdate":  "2026-09-16",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Vnec67EzF",
+        "url":  "https://www.bilibili.com/video/BV1Vnec67EzF",
+        "bvid_title":  "【SLAM】RIGOR:Rig-Informed Geometry for Omnidirectional Reconstruction",
+        "full_title":  "RIGOR: Rig-Informed Geometry for Omnidirectional Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "SLAM",
+        "arxiv_id":  "2609.13504",
+        "arxiv_url":  "https://arxiv.org/abs/2609.13504",
+        "links":  [
+                      "https://arxiv.org/abs/2609.13504v1",
+                      "https://github.com/TangentH/RIGOR"
+                  ],
+        "summary_zh":  "将每个全景拆成四个已知相对朝向的透视视图，用 rig 一致性修复局部预测，并用经过验证的回环约束校正长序列漂移。",
+        "duration_s":  895,
+        "views":  314,
+        "pubdate":  "2026-09-16",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1B3ec6WEMj",
+        "url":  "https://www.bilibili.com/video/BV1B3ec6WEMj",
+        "bvid_title":  "【3D重建】CGGT:Curve-Grounded Geometry Transformer for 3D Parametric Curve Reconstru",
+        "full_title":  "CGGT: Curve-Grounded Geometry Transformer for 3D Parametric Curve Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.14521",
+        "arxiv_url":  "https://arxiv.org/abs/2609.14521",
+        "links":  [
+                      "https://arxiv.org/abs/2609.14521",
+                      "https://zhirui-gao.github.io/cggt/"
+                  ],
+        "summary_zh":  "用几何感知的曲线 grounding 连接稀疏多视角图像与紧凑、可编辑的三维 CAD wireframe。",
+        "duration_s":  906,
+        "views":  474,
+        "pubdate":  "2026-09-16",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1ckeM6jEDJ",
+        "url":  "https://www.bilibili.com/video/BV1ckeM6jEDJ",
+        "bvid_title":  "【3D重建】Bi-FlowGS:Bridging Generative View Completion and Gaussian Geometry throug",
+        "full_title":  "Bi-FlowGS: Bridging Generative View Completion and Gaussian Geometry through Bidirectional Flow Co-Refinement",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.17039",
+        "arxiv_url":  "https://arxiv.org/abs/2609.17039",
+        "links":  [
+                      "https://arxiv.org/abs/2609.17039"
+                  ],
+        "summary_zh":  "用光流在生成式视角补全与 Gaussian geometry 之间建立可迭代的双向监督闭环。",
+        "duration_s":  873,
+        "views":  376,
+        "pubdate":  "2026-09-17",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV11YeM6HEnU",
+        "url":  "https://www.bilibili.com/video/BV11YeM6HEnU",
+        "bvid_title":  "【3D重建】DecoGS:Adaptive Static-Dynamic Decoupling of 3D Gaussians for Free-Viewpoi",
+        "full_title":  "DecoGS: Adaptive Static-Dynamic Decoupling of 3D Gaussians for Free-Viewpoint Video Streaming",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.17230",
+        "arxiv_url":  "https://arxiv.org/abs/2609.17230",
+        "links":  [
+                      "https://arxiv.org/abs/2609.17230v1",
+                      "https://arxiv.org/pdf/2609.17230v1"
+                  ],
+        "summary_zh":  "用自适应静动态解耦和选择性三维高斯优化，降低在线更新冗余并提升流式自由视点视频的质量与时间稳定性。",
+        "duration_s":  959,
+        "views":  223,
+        "pubdate":  "2026-09-17",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1KheM69EaE",
+        "url":  "https://www.bilibili.com/video/BV1KheM69EaE",
+        "bvid_title":  "【3D重建·Benchmark】The Neverwhere Visual Parkour Benchmark Suite",
+        "full_title":  "The Neverwhere Visual Parkour Benchmark Suite",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建·Benchmark",
+        "arxiv_id":  "2609.16443",
+        "arxiv_url":  "https://arxiv.org/abs/2609.16443",
+        "links":  [
+                      "https://arxiv.org/abs/2609.16443"
+                  ],
+        "summary_zh":  "用 3D Gaussian Splatting 与高质量碰撞几何，把真实场景转成可重复的闭环视觉跑酷评测环境。",
+        "duration_s":  914,
+        "views":  204,
+        "pubdate":  "2026-09-17",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1YfeM6vEZK",
+        "url":  "https://www.bilibili.com/video/BV1YfeM6vEZK",
+        "bvid_title":  "【3D重建】G3AR:Graph-Guided Neural Visual Geometry for Scalable Multi-Sequence Aeria",
+        "full_title":  "G3AR: Graph-Guided Neural Visual Geometry for Scalable Multi-Sequence Aerial Registration",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.16603",
+        "arxiv_url":  "https://arxiv.org/abs/2609.16603",
+        "links":  [
+                      "https://arxiv.org/abs/2609.16603v1"
+                  ],
+        "summary_zh":  "用几何验证的图结构指导分块和 Sim(3) 合并，让神经视觉几何扩展到多序列大规模航空影像。",
+        "duration_s":  925,
+        "views":  184,
+        "pubdate":  "2026-09-17",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1WPeG6ZEgE",
+        "url":  "https://www.bilibili.com/video/BV1WPeG6ZEgE",
+        "bvid_title":  "【3D理解】SceneHI:High-Resolution 3D-Consistent Scene Texturing with Controllable Il",
+        "full_title":  "SceneHI: High-Resolution 3D-Consistent Scene Texturing with Controllable Illumination",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.10363",
+        "arxiv_url":  "https://arxiv.org/abs/2609.10363",
+        "links":  [
+                      "https://arxiv.org/abs/2609.10363"
+                  ],
+        "summary_zh":  "在共享 UV 潜空间中联合去噪多视角，再用几何感知的高分辨率细化与阴影生成得到可直接使用的场景纹理。",
+        "duration_s":  915,
+        "views":  144,
+        "pubdate":  "2026-09-17",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1r2ey6EEqq",
+        "url":  "https://www.bilibili.com/video/BV1r2ey6EEqq",
+        "bvid_title":  "【3D重建】IRIS:Implicit Rendering Matters for Pose-Free Novel View Synthesis",
+        "full_title":  "IRIS: Implicit Rendering Matters for Pose-Free Novel View Synthesis",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.18034",
+        "arxiv_url":  "https://arxiv.org/abs/2609.18034",
+        "links":  [
+                      "https://arxiv.org/abs/2609.18034",
+                      "https://leo-frank.github.io/IRIS/"
+                  ],
+        "summary_zh":  "用自预测相机约束潜在神经场的查询与光线渲染，在无姿态监督下兼顾新视角质量与相机几何。",
+        "duration_s":  971,
+        "views":  263,
+        "pubdate":  "2026-09-18",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1tSeC6tEbD",
+        "url":  "https://www.bilibili.com/video/BV1tSeC6tEbD",
+        "bvid_title":  "【3D重建】Track, Articulate, Act:Generating Articulation from Casual Human Videos",
+        "full_title":  "Track, Articulate, Act: Generating Articulation from Casual Human Videos",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.19119",
+        "arxiv_url":  "https://arxiv.org/abs/2609.19119",
+        "links":  [
+                      "https://arxiv.org/abs/2609.19119",
+                      "https://track-articulate-act.github.io"
+                  ],
+        "summary_zh":  "用密集 3D 点轨迹区分静止与运动部件，拟合转动或平移关节，再把重建的物体和手部动作放入 MuJoCo，通过接触复现操作。",
+        "duration_s":  854,
+        "views":  202,
+        "pubdate":  "2026-09-18",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1K9eC6REWx",
+        "url":  "https://www.bilibili.com/video/BV1K9eC6REWx",
+        "bvid_title":  "【3D重建】CADSplat:Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust,",
+        "full_title":  "CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.18473",
+        "arxiv_url":  "https://arxiv.org/abs/2609.18473",
+        "links":  [
+                      "https://arxiv.org/abs/2609.18473v1"
+                  ],
+        "summary_zh":  "以 CAD 表面为几何锚点，把稀疏图像中的姿态、形状偏差与 3DGS 外观放进同一个可优化框架。",
+        "duration_s":  1026,
+        "views":  236,
+        "pubdate":  "2026-09-18",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Wpe169E4L",
+        "url":  "https://www.bilibili.com/video/BV1Wpe169E4L",
+        "bvid_title":  "【3D重建】WeaveRL:Weaving Reconstruction into Scene-Aware Fabrics for Perceptive Rei",
+        "full_title":  "WeaveRL: Weaving Reconstruction into Scene-Aware Fabrics for Perceptive Reinforcement Learning",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.18685",
+        "arxiv_url":  "https://arxiv.org/abs/2609.18685",
+        "links":  [
+                      "https://arxiv.org/abs/2609.18685"
+                  ],
+        "summary_zh":  "用可批量运行的 surfel 重建替换手工几何先验，让几何织物在训练和部署时都能查询实时、传感器导出的场景。",
+        "duration_s":  902,
+        "views":  103,
+        "pubdate":  "2026-09-18",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1znet6wEZD",
+        "url":  "https://www.bilibili.com/video/BV1znet6wEZD",
+        "bvid_title":  "【SLAM】GRF-Recon:Global Ray-Field Optimization for Long-Sequence Feed-forward Rec",
+        "full_title":  "GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "SLAM",
+        "arxiv_id":  "2609.20012",
+        "arxiv_url":  "https://arxiv.org/abs/2609.20012",
+        "links":  [
+                      "https://arxiv.org/abs/2609.20012"
+                  ],
+        "summary_zh":  "用轻量几何适配增强局部感知，以混合权重稀疏光线场把跨帧几何约束送入全局优化，从而稳定扩展单目重建的序列长度。",
+        "duration_s":  1040,
+        "views":  343,
+        "pubdate":  "2026-09-19",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1MAet6yEE5",
+        "url":  "https://www.bilibili.com/video/BV1MAet6yEE5",
+        "bvid_title":  "【3D重建】ParticleSplat:Self-supervised Object-centric Latent Particle Splatting",
+        "full_title":  "ParticleSplat: Self-supervised Object-centric Latent Particle Splatting",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.19463",
+        "arxiv_url":  "https://arxiv.org/abs/2609.19463",
+        "links":  [
+                      "https://arxiv.org/abs/2609.19463v1"
+                  ],
+        "summary_zh":  "用少量多视角或 RGB-D 观察推断对象中心粒子，再把粒子变成三维高斯，从而统一新视角合成、可控场景编辑与机器人操作表示。",
+        "duration_s":  913,
+        "views":  330,
+        "pubdate":  "2026-09-19",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1P8e46TEMT",
+        "url":  "https://www.bilibili.com/video/BV1P8e46TEMT",
+        "bvid_title":  "【3D生成】FunArt:Decoding Functional Structure and Articulation from Generative 3D L",
+        "full_title":  "FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.20673",
+        "arxiv_url":  "https://arxiv.org/abs/2609.20673",
+        "links":  [
+                      "https://arxiv.org/abs/2609.20673v1"
+                  ],
+        "summary_zh":  "用冻结的生成式 3D 几何特征和轻量查询解码器，把静态 RGB-D 场景转成带功能元素与运动参数的层级场景图。",
+        "duration_s":  927,
+        "views":  77,
+        "pubdate":  "2026-09-19",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1fze46FEjf",
+        "url":  "https://www.bilibili.com/video/BV1fze46FEjf",
+        "bvid_title":  "【SLAM】AMB3R-SLAM:Kilometer-scale SLAM with Hierarchical Backend",
+        "full_title":  "AMB3R-SLAM: Kilometer-scale SLAM with Hierarchical Backend",
+        "venue":  "arXiv 2026",
+        "category":  "SLAM",
+        "arxiv_id":  "2609.19518",
+        "arxiv_url":  "https://arxiv.org/abs/2609.19518",
+        "links":  [
+                      "https://arxiv.org/abs/2609.19518v1"
+                  ],
+        "summary_zh":  "用前端保证低延迟跟踪，用分层后端逐步约束局部、中程与全局漂移，从而支持千米级长轨迹重建。",
+        "duration_s":  918,
+        "views":  504,
+        "pubdate":  "2026-09-19",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1txhk65E72",
+        "url":  "https://www.bilibili.com/video/BV1txhk65E72",
+        "bvid_title":  "【SLAM】Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localiz",
+        "full_title":  "Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering",
+        "venue":  "arXiv 2026",
+        "category":  "SLAM",
+        "arxiv_id":  "2609.21502",
+        "arxiv_url":  "https://arxiv.org/abs/2609.21502",
+        "links":  [
+                      "https://arxiv.org/abs/2609.21502"
+                  ],
+        "summary_zh":  "用双阶段自适应世界记忆连接三维几何、可渲染高斯地图和大尺度 SLAM。",
+        "duration_s":  893,
+        "views":  273,
+        "pubdate":  "2026-09-22",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1tZh76LEDm",
+        "url":  "https://www.bilibili.com/video/BV1tZh76LEDm",
+        "bvid_title":  "【3D重建】VoxelTTO:Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time O",
+        "full_title":  "VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.21498",
+        "arxiv_url":  "https://arxiv.org/abs/2609.21498",
+        "links":  [
+                      "https://arxiv.org/abs/2609.21498"
+                  ],
+        "summary_zh":  "从任意数量的多视图图像和可选相机参数出发，构建体素对齐的 3DGS 场景，并通过 TTO 改善测试视角的位姿对齐与 RGB-D 渲染。",
+        "duration_s":  882,
+        "views":  464,
+        "pubdate":  "2026-09-22",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1H5hn6GE1Z",
+        "url":  "https://www.bilibili.com/video/BV1H5hn6GE1Z",
+        "bvid_title":  "【3D重建】LoG-VGGT:Think Locally, Refine Globally for Memory-Efficient 3D Reconstruc",
+        "full_title":  "Think Locally, Refine Globally for Memory-Efficient 3D Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.21437",
+        "arxiv_url":  "https://arxiv.org/abs/2609.21437",
+        "links":  [
+                      "https://arxiv.org/abs/2609.21437"
+                  ],
+        "summary_zh":  "LoG-VGGT 用有界记忆的局部窗口传播时间信息，再用紧凑 register token 做全局相机一致性修正。",
+        "duration_s":  917,
+        "views":  631,
+        "pubdate":  "2026-09-22",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1pGhn6yEUK",
+        "url":  "https://www.bilibili.com/video/BV1pGhn6yEUK",
+        "bvid_title":  "【3D生成】4DGS-Fixer:Generative Sparse-View 4D Gaussian Splatting with Iterative Ref",
+        "full_title":  "4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.21176",
+        "arxiv_url":  "https://arxiv.org/abs/2609.21176",
+        "links":  [
+                      "https://arxiv.org/abs/2609.21176"
+                  ],
+        "summary_zh":  "用多视角深度融合解决初始化缺失，再用参考引导的视频扩散恢复结果作为伪监督，迭代改进四维高斯表示。",
+        "duration_s":  1004,
+        "views":  265,
+        "pubdate":  "2026-09-22",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1umhp6tEco",
+        "url":  "https://www.bilibili.com/video/BV1umhp6tEco",
+        "bvid_title":  "【3D重建】VGGT-CAD:Reconstructing Parametric CAD 3D Model with Geometric Grounding",
+        "full_title":  "VGGT-CAD: Reconstructing Parametric CAD 3D Model with Geometric Grounding",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.21225",
+        "arxiv_url":  "https://arxiv.org/abs/2609.21225",
+        "links":  [
+                      "https://arxiv.org/abs/2609.21225v1"
+                  ],
+        "summary_zh":  "将预训练的三维几何先验与显式相机条件结合，在可变数量的视角下预测可执行 CAD 命令。",
+        "duration_s":  945,
+        "views":  359,
+        "pubdate":  "2026-09-22",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1M1hp6fEiS",
+        "url":  "https://www.bilibili.com/video/BV1M1hp6fEiS",
+        "bvid_title":  "【深度估计】Info3R:Information-Adaptive Test-Time Training for 3D Reconstruction",
+        "full_title":  "Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "深度估计",
+        "arxiv_id":  "2609.21938",
+        "arxiv_url":  "https://arxiv.org/abs/2609.21938",
+        "links":  [
+                      "https://arxiv.org/abs/2609.21938"
+                  ],
+        "summary_zh":  "用逐帧重要性控制状态写入，用信息驱动的重置恢复状态可塑性，并以坐标链保持长序列全局几何。",
+        "duration_s":  899,
+        "views":  225,
+        "pubdate":  "2026-09-22",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV13Hhy6RE3z",
+        "url":  "https://www.bilibili.com/video/BV13Hhy6RE3z",
+        "bvid_title":  "【3D重建】OREN-X:Octree Residual Network for Real-Time Multi-Modal Mapping",
+        "full_title":  "OREN-X: Octree Residual Network for Real-Time Multi-Modal Mapping",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.29157",
+        "arxiv_url":  "https://arxiv.org/abs/2609.29157",
+        "links":  [
+                      "https://arxiv.org/abs/2609.29157"
+                  ],
+        "summary_zh":  "用一棵共享八叉树联合维护 SDF、occupancy、radiance 和 vision-language field，并通过跨模态监督与在线压缩同时提升精度、效率和可查询性。",
+        "duration_s":  882,
+        "views":  346,
+        "pubdate":  "2026-09-25",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1G7hy6bELh",
+        "url":  "https://www.bilibili.com/video/BV1G7hy6bELh",
+        "bvid_title":  "【3DGS】SplatLabel:Pseudo-Labelling through 4D Gaussian Splatting",
+        "full_title":  "SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2609.29836",
+        "arxiv_url":  "https://arxiv.org/abs/2609.29836",
+        "links":  [
+                      "https://arxiv.org/abs/2609.29836"
+                  ],
+        "summary_zh":  "用带有显式时间流形的 4D Gaussian 表示，把二维语义和 360 度 LiDAR 几何蒸馏为可控、可评测的三维伪标签。",
+        "duration_s":  856,
+        "views":  265,
+        "pubdate":  "2026-09-25",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1CZhC63Eny",
+        "url":  "https://www.bilibili.com/video/BV1CZhC63Eny",
+        "bvid_title":  "【3D重建】GrapeSplat:Geometry-Grounded Reconstruction via Amalgamated Pose-Free Enco",
+        "full_title":  "GrapeSplat: Geometry-Grounded Reconstruction via Amalgamated Pose-Free Encoding for Feed-Forward 3D Gaussian Splatting",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.23182",
+        "arxiv_url":  "https://arxiv.org/abs/2609.23182",
+        "links":  [
+                      "https://arxiv.org/abs/2609.23182v1"
+                  ],
+        "summary_zh":  "将多视图几何线索融合到稀疏体素场景中，再从占据体素直接解码全局一致的三维高斯。",
+        "duration_s":  920,
+        "views":  204,
+        "pubdate":  "2026-09-25",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1xXhC6yEFH",
+        "url":  "https://www.bilibili.com/video/BV1xXhC6yEFH",
+        "bvid_title":  "【3D重建】VDGS:Visibility-Driven Large-Scale 3D Gaussian Splatting for Aerial Scene",
+        "full_title":  "VDGS: Visibility-Driven Large-Scale 3D Gaussian Splatting for Aerial Scene Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.23049",
+        "arxiv_url":  "https://arxiv.org/abs/2609.23049",
+        "links":  [
+                      "https://arxiv.org/abs/2609.23049v1"
+                  ],
+        "summary_zh":  "用相机可见性统计同时指导场景分块和低可见性区域的梯度补偿，缓解大规模航拍场景中的监督失衡。",
+        "duration_s":  812,
+        "views":  443,
+        "pubdate":  "2026-09-25",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1oDh26kEzU",
+        "url":  "https://www.bilibili.com/video/BV1oDh26kEzU",
+        "bvid_title":  "【3D生成】M3GD:Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel Vi",
+        "full_title":  "M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.30056",
+        "arxiv_url":  "https://arxiv.org/abs/2609.30056",
+        "links":  [
+                      "https://arxiv.org/abs/2609.30056v1"
+                  ],
+        "summary_zh":  "将投影后的 LiDAR 几何统计和冻结点云特征作为目标视图的几何查询，接入已有的多视角图像潜空间生成器。",
+        "duration_s":  924,
+        "views":  136,
+        "pubdate":  "2026-09-25",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV16Sh265EAU",
+        "url":  "https://www.bilibili.com/video/BV16Sh265EAU",
+        "bvid_title":  "【3D生成】OREO:Fidelity Alignment in 3D Generation via On-the-fly Rendering-Editing",
+        "full_title":  "OREO: Fidelity Alignment in 3D Generation via On-the-fly Rendering-Editing Optimization",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.29788",
+        "arxiv_url":  "https://arxiv.org/abs/2609.29788",
+        "links":  [
+                      "https://arxiv.org/abs/2609.29788"
+                  ],
+        "summary_zh":  "用在线生成的、结构对齐的二维伪目标，把二维视觉细节持续迁移到三维生成器。",
+        "duration_s":  913,
+        "views":  72,
+        "pubdate":  "2026-09-25",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1Rdh26uECW",
+        "url":  "https://www.bilibili.com/video/BV1Rdh26uECW",
+        "bvid_title":  "【3D重建】CODA:Depth-Aligned Scene Completion and Object Decomposition from a Single",
+        "full_title":  "CODA: Depth-Aligned Scene Completion and Object Decomposition from a Single RGB-D Image",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.25654",
+        "arxiv_url":  "https://arxiv.org/abs/2609.25654",
+        "links":  [
+                      "https://arxiv.org/abs/2609.25654v1"
+                  ],
+        "summary_zh":  "先联合补全整个场景，再利用生成的属性编码把环境与对象分开，并用观测深度把生成几何锚定在真实表面。",
+        "duration_s":  938,
+        "views":  202,
+        "pubdate":  "2026-09-25",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1odh26uEJq",
+        "url":  "https://www.bilibili.com/video/BV1odh26uEJq",
+        "bvid_title":  "【3D重建】$\\phi$-RIE:\\phi-RIE:From Photorealistic Reconstruction to Interactive Envi",
+        "full_title":  "\\phi-RIE: From Photorealistic Reconstruction to Interactive Environments",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.26795",
+        "arxiv_url":  "https://arxiv.org/abs/2609.26795",
+        "links":  [
+                      "https://arxiv.org/abs/2609.26795v1"
+                  ],
+        "summary_zh":  "以共享对象证据耦合资产构造、源高斯移除和背景补全，使捕获的 Gaussian scene 具有可移动对象和可执行物理状态。",
+        "duration_s":  1003,
+        "views":  210,
+        "pubdate":  "2026-09-25",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV13wpx67ET2",
+        "url":  "https://www.bilibili.com/video/BV13wpx67ET2",
+        "bvid_title":  "【3DGS】PePESeg3D:Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussi",
+        "full_title":  "PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2609.28645",
+        "arxiv_url":  "https://arxiv.org/abs/2609.28645",
+        "links":  [
+                      "https://arxiv.org/abs/2609.28645v1"
+                  ],
+        "summary_zh":  "将感知先验同时用于几何重建和多尺度特征学习，得到更准确、更连贯的 3DGS 分割。",
+        "duration_s":  966,
+        "views":  244,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV159ps6XEru",
+        "url":  "https://www.bilibili.com/video/BV159ps6XEru",
+        "bvid_title":  "【3D生成】Mira-Scene:Pixel-Aligned Layouts for Generative 3D Scene Reconstruction",
+        "full_title":  "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.23796",
+        "arxiv_url":  "https://arxiv.org/abs/2609.23796",
+        "links":  [
+                      "https://arxiv.org/abs/2609.23796v1",
+                      "https://sunyangtian.github.io/Mira-Scene-web/"
+                  ],
+        "summary_zh":  "用 bounded CCM 表示物体内部的像素到 canonical surface 对应，再与 scene-space PCM 对齐恢复物体变换。",
+        "duration_s":  901,
+        "views":  215,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV19Xps6pEmT",
+        "url":  "https://www.bilibili.com/video/BV19Xps6pEmT",
+        "bvid_title":  "【3DGS】GAPS:Generative Active Pseudo-view Selection for Sparse-View 3D Gaussian S",
+        "full_title":  "GAPS: Generative Active Pseudo-view Selection for Sparse-View 3D Gaussian Splatting",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2609.23436",
+        "arxiv_url":  "https://arxiv.org/abs/2609.23436",
+        "links":  [
+                      "https://arxiv.org/abs/2609.23436",
+                      "https://arxiv.org/html/2609.23436v1"
+                  ],
+        "summary_zh":  "用主动选择、受约束扩散生成和不确定性加权，把伪视角变成稀疏视角 3DGS 的可靠补充监督。",
+        "duration_s":  914,
+        "views":  71,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Vdps6HEFr",
+        "url":  "https://www.bilibili.com/video/BV1Vdps6HEFr",
+        "bvid_title":  "【3D重建】AgentSTAR:Agentic Shape Tracking and Reconstruction from Monocular Videos",
+        "full_title":  "AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.24487",
+        "arxiv_url":  "https://arxiv.org/abs/2609.24487",
+        "links":  [
+                      "https://arxiv.org/abs/2609.24487v1"
+                  ],
+        "summary_zh":  "用 VLM 的结构推理寻找优化盆地，再用数值工具精确拟合形状、关节和跨帧姿态。",
+        "duration_s":  958,
+        "views":  93,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1bsps6kELP",
+        "url":  "https://www.bilibili.com/video/BV1bsps6kELP",
+        "bvid_title":  "【3D生成】Fysiverse-3D-Vision Technical Report:Generating Executable 3D Worlds from",
+        "full_title":  "Fysiverse-3D-Vision Technical Report: Generating Executable 3D Worlds from Images through Unified Spatial Reasoning",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.25741",
+        "arxiv_url":  "https://arxiv.org/abs/2609.25741",
+        "links":  [
+                      "https://arxiv.org/abs/2609.25741v1"
+                  ],
+        "summary_zh":  "用统一的视觉—语言—几何表示，把单图三维重建中的资产生成与空间布局推理解耦，并连接到可执行属性。",
+        "duration_s":  969,
+        "views":  83,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1Aqps6eEG8",
+        "url":  "https://www.bilibili.com/video/BV1Aqps6eEG8",
+        "bvid_title":  "【3D生成】HARMONY:Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthe",
+        "full_title":  "HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.26793",
+        "arxiv_url":  "https://arxiv.org/abs/2609.26793",
+        "links":  [
+                      "https://arxiv.org/abs/2609.26793",
+                      "https://cwchenwang.github.io/harmony"
+                  ],
+        "summary_zh":  "以空房间和校准相机为骨架，用 VLM 规划对象关系，再用图像空间与点云几何证据逐对象修正，生成可渲染、可交互的室内三维场景。",
+        "duration_s":  951,
+        "views":  55,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1NVpt6mEDp",
+        "url":  "https://www.bilibili.com/video/BV1NVpt6mEDp",
+        "bvid_title":  "【3D理解】OmniCam:Omni-Camera Trajectory Generation via Geometry-Grounded Pose Token",
+        "full_title":  "OmniCam: Omni-Camera Trajectory Generation via Geometry-Grounded Pose Token Learning",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2610.09513",
+        "arxiv_url":  "https://arxiv.org/abs/2610.09513",
+        "links":  [
+                      "https://arxiv.org/abs/2610.09513",
+                      "https://zhenyangliu.github.io/OmniCam-Website/"
+                  ],
+        "summary_zh":  "从单张全景图和文字轨迹描述生成具有空间感知能力的 相机位姿序列。",
+        "duration_s":  957,
+        "views":  54,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1PJpt6CEzY",
+        "url":  "https://www.bilibili.com/video/BV1PJpt6CEzY",
+        "bvid_title":  "【3D重建】S2Tok:Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens",
+        "full_title":  "S2Tok: Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2610.08978",
+        "arxiv_url":  "https://arxiv.org/abs/2610.08978",
+        "links":  [
+                      "https://arxiv.org/abs/2610.08978v1"
+                  ],
+        "summary_zh":  "用自适应的持久空间 Token 分离“更新已有场景”和“接纳新区域”，并从当前状态重新解码可渲染的 3D Gaussians。",
+        "duration_s":  916,
+        "views":  59,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1cspt6gEbH",
+        "url":  "https://www.bilibili.com/video/BV1cspt6gEbH",
+        "bvid_title":  "【3D重建】Argos:Adapt Rich Geometric Priors for Generalizable Online Scene-Change-De",
+        "full_title":  "Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2610.10181",
+        "arxiv_url":  "https://arxiv.org/abs/2610.10181",
+        "links":  [
+                      "https://arxiv.org/abs/2610.10181v1"
+                  ],
+        "summary_zh":  "用冻结的几何基础模型特征结合跨访问共可见性比较，在检测变化的同时恢复相机、深度与变化感知的四维点云地图。",
+        "duration_s":  915,
+        "views":  55,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV16Cp46MED4",
+        "url":  "https://www.bilibili.com/video/BV16Cp46MED4",
+        "bvid_title":  "【3D生成】Tetris3D:3D Scene Generation With Objects That Fit Together",
+        "full_title":  "Tetris3D: 3D Scene Generation With Objects That Fit Together",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2610.10539",
+        "arxiv_url":  "https://arxiv.org/abs/2610.10539",
+        "links":  [
+                      "https://arxiv.org/abs/2610.10539v1"
+                  ],
+        "summary_zh":  "通过邻域几何、物理关系和可见到不可见注意力，逐物体生成能够共同契合的三维场景。",
+        "duration_s":  926,
+        "views":  11,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1nCp46ME7o",
+        "url":  "https://www.bilibili.com/video/BV1nCp46ME7o",
+        "bvid_title":  "【3DGS】ActiveLang:Active Open-Vocabulary 3D Mapping with Semantic-Uncertainty-Gui",
+        "full_title":  "ActiveLang: Active Open-Vocabulary 3D Mapping with Semantic-Uncertainty-Guided Exploration",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2610.09518",
+        "arxiv_url":  "https://arxiv.org/abs/2610.09518",
+        "links":  [
+                      "https://arxiv.org/abs/2610.09518v1"
+                  ],
+        "summary_zh":  "用在线自适应的紧凑语言特征表示，联合几何覆盖与语义不确定性选择下一观察位置。",
+        "duration_s":  838,
+        "views":  5,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1F2p46KEnd",
+        "url":  "https://www.bilibili.com/video/BV1F2p46KEnd",
+        "bvid_title":  "【3D重建】DynStream:Online Streaming 4D Gaussian Reconstruction of Dynamic Worlds fr",
+        "full_title":  "DynStream: Online Streaming 4D Gaussian Reconstruction of Dynamic Worlds from Unposed Video",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2610.09720",
+        "arxiv_url":  "https://arxiv.org/abs/2610.09720",
+        "links":  [
+                      "https://arxiv.org/abs/2610.09720v1"
+                  ],
+        "summary_zh":  "从连续、无位姿、包含动态内容的视频流中，增量构建可渲染且全局一致的 4D Gaussian 场景。",
+        "duration_s":  841,
+        "views":  100,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1QApt6WE18",
+        "url":  "https://www.bilibili.com/video/BV1QApt6WE18",
+        "bvid_title":  "【3D重建】NeRFifyMesh:Optimizing Neural Radiance Fields from Textured Meshes for Rob",
+        "full_title":  "NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2610.10387",
+        "arxiv_url":  "https://arxiv.org/abs/2610.10387",
+        "links":  [
+                      "https://arxiv.org/abs/2610.10387v1"
+                  ],
+        "summary_zh":  "从纹理网格采样几何、颜色、占据和法向，直接训练紧凑的 NeRF，并将其用于渲染、表面恢复、场景组合和机器人碰撞模拟。",
+        "duration_s":  928,
+        "views":  30,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV18sp46nEPo",
+        "url":  "https://www.bilibili.com/video/BV18sp46nEPo",
+        "bvid_title":  "【3DGS】PlenoCI:Plenoptic CharacterIstics for View Dependence Aware Change Classif",
+        "full_title":  "PlenoCI: Plenoptic CharacterIstics for View Dependence Aware Change Classification",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2609.28930",
+        "arxiv_url":  "https://arxiv.org/abs/2609.28930",
+        "links":  [
+                      "https://arxiv.org/abs/2609.28930v1"
+                  ],
+        "summary_zh":  "用五维 plenoptic field 的解析结构，识别变化并区分 geometric change 与 appearance change，同时降低独立 3DGS 重建带来的误报。",
+        "duration_s":  894,
+        "views":  21,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1ABp46rELF",
+        "url":  "https://www.bilibili.com/video/BV1ABp46rELF",
+        "bvid_title":  "【3D理解】TRACKGRAPH:Online Open-Vocabulary 3D Scene Graphs via Image-Space Tracking",
+        "full_title":  "TRACKGRAPH: Online Open-Vocabulary 3D Scene Graphs via Image-Space Tracking",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.31005",
+        "arxiv_url":  "https://arxiv.org/abs/2609.31005",
+        "links":  [
+                      "https://arxiv.org/abs/2609.31005"
+                  ],
+        "summary_zh":  "在图像空间传播短期 mask 身份，再将 source tracks 在线融合为可用文本和图像查询的三维场景图。",
+        "duration_s":  898,
+        "views":  35,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1crp46zE2C",
+        "url":  "https://www.bilibili.com/video/BV1crp46zE2C",
+        "bvid_title":  "【3D重建】Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free",
+        "full_title":  "Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.30865",
+        "arxiv_url":  "https://arxiv.org/abs/2609.30865",
+        "links":  [
+                      "https://arxiv.org/abs/2609.30865v1"
+                  ],
+        "summary_zh":  "用前后向循环一致性产生在线可靠性，以门控运动外推并加权固定几何的局部窗口位姿优化。",
+        "duration_s":  935,
+        "views":  78,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1Nap461Emi",
+        "url":  "https://www.bilibili.com/video/BV1Nap461Emi",
+        "bvid_title":  "【3D重建】Spackle:Completing Large View Single Image NVS with Adaptive Gaussians",
+        "full_title":  "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.30941",
+        "arxiv_url":  "https://arxiv.org/abs/2609.30941",
+        "links":  [
+                      "https://arxiv.org/abs/2609.30941"
+                  ],
+        "summary_zh":  "用冻结的基础 3DGS 保住可见区域，再用掩码约束的残差高斯只补足大视角下的缺失区域。",
+        "duration_s":  955,
+        "views":  45,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1yvp46CER7",
+        "url":  "https://www.bilibili.com/video/BV1yvp46CER7",
+        "bvid_title":  "【3D理解】GraphWrit3R:End-to-End 3D Scene Graph Writing",
+        "full_title":  "GraphWrit3R: End-to-End 3D Scene Graph Writing",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.31595",
+        "arxiv_url":  "https://arxiv.org/abs/2609.31595",
+        "links":  [
+                      "https://arxiv.org/abs/2609.31595",
+                      "https://graphwrit3r.insait.ai"
+                  ],
+        "summary_zh":  "从点云、3D Gaussian Splat 或二者组合出发，在潜空间中联合预测物体与关系，并以结构化 JSON 直接输出完整三维场景图。",
+        "duration_s":  899,
+        "views":  34,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1tzph64ET2",
+        "url":  "https://www.bilibili.com/video/BV1tzph64ET2",
+        "bvid_title":  "【3D理解】SceneScaffold:Active Scene-State Construction for Unified 3D Scene Underst",
+        "full_title":  "SceneScaffold: Active Scene-State Construction for Unified 3D Scene Understanding",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.33518",
+        "arxiv_url":  "https://arxiv.org/abs/2609.33518",
+        "links":  [
+                      "https://arxiv.org/abs/2609.33518v1"
+                  ],
+        "summary_zh":  "在固定视觉 token 预算下，把三维证据组织成实体、场景框架、关系和全局状态，再交给 LLM 统一处理 grounding、QA 与 dense captioning。",
+        "duration_s":  863,
+        "views":  280,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1A8pa6pEvS",
+        "url":  "https://www.bilibili.com/video/BV1A8pa6pEvS",
+        "bvid_title":  "【3D理解】TrackEverything:Long Horizon Dense Tracking via De-Duplicating 3D Scene Re",
+        "full_title":  "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.30222",
+        "arxiv_url":  "https://arxiv.org/abs/2609.30222",
+        "links":  [
+                      "https://arxiv.org/abs/2609.30222",
+                      "https://trackeverything.github.io/"
+                  ],
+        "summary_zh":  "在世界坐标中维护会跨窗口延续、并在空间上去重的三维点轨迹，使所有可见点的长视频跟踪不再随帧数线性膨胀。",
+        "duration_s":  936,
+        "views":  171,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1ofph6kEJP",
+        "url":  "https://www.bilibili.com/video/BV1ofph6kEJP",
+        "bvid_title":  "【3D生成】GenNVS:Geometry-enhanced Novel View Synthesis via Disentangled 3D Prior",
+        "full_title":  "GenNVS: Geometry-enhanced Novel View Synthesis via Disentangled 3D Prior",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.34579",
+        "arxiv_url":  "https://arxiv.org/abs/2609.34579",
+        "links":  [
+                      "https://arxiv.org/abs/2609.34579"
+                  ],
+        "summary_zh":  "将对象级几何、场景级布局和双流几何条件结合起来，生成结构更稳定的新视角视频。",
+        "duration_s":  933,
+        "views":  72,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1nSph6SEXn",
+        "url":  "https://www.bilibili.com/video/BV1nSph6SEXn",
+        "bvid_title":  "【神经渲染】NAMVIS:Next-Scale Autoregressive Multi-View Image Synthesis",
+        "full_title":  "NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis",
+        "venue":  "arXiv 2026",
+        "category":  "神经渲染",
+        "arxiv_id":  "2610.04722",
+        "arxiv_url":  "https://arxiv.org/abs/2610.04722",
+        "links":  [
+                      "https://arxiv.org/abs/2610.04722"
+                  ],
+        "summary_zh":  "用多尺度投影位姿编码和双路径源图像条件，直接并行生成几何一致的新视图。",
+        "duration_s":  944,
+        "views":  57,
+        "pubdate":  "2026-10-09",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1Rupe6CEg3",
+        "url":  "https://www.bilibili.com/video/BV1Rupe6CEg3",
+        "bvid_title":  "【3D生成】OuroWorld:Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cin",
+        "full_title":  "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2610.12461",
+        "arxiv_url":  "https://arxiv.org/abs/2610.12461",
+        "links":  [
+                      "https://arxiv.org/abs/2610.12461",
+                      "https://ouroworld.userwei.com"
+                  ],
+        "summary_zh":  "从任意静态 3DGS 出发，以视频生成先验获得多样运动，再用周期四维表示输出可自由视角、无缝循环的三维动态照片。",
+        "duration_s":  895,
+        "views":  32,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1cBpi6YEUM",
+        "url":  "https://www.bilibili.com/video/BV1cBpi6YEUM",
+        "bvid_title":  "【神经渲染】LVSPM:Long Sequence View Synthesis and Pose Estimation Model",
+        "full_title":  "LVSPM: Long Sequence View Synthesis and Pose Estimation Model",
+        "venue":  "arXiv 2026",
+        "category":  "神经渲染",
+        "arxiv_id":  "2610.10960",
+        "arxiv_url":  "https://arxiv.org/abs/2610.10960",
+        "links":  [
+                      "https://arxiv.org/abs/2610.10960v1"
+                  ],
+        "summary_zh":  "从无标定的长序列图像中，联合预测世界对齐的相机参数与新视角 RGB 图像，并在 16--256 个输入视图上保持可扩展性能。",
+        "duration_s":  944,
+        "views":  22,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1fApi6xEKh",
+        "url":  "https://www.bilibili.com/video/BV1fApi6xEKh",
+        "bvid_title":  "【神经渲染】LVS:Local View Synthesis from Relative Camera Pose by Reusing Previous Vie",
+        "full_title":  "LVS: Local View Synthesis from Relative Camera Pose by Reusing Previous Views",
+        "venue":  "arXiv 2026",
+        "category":  "神经渲染",
+        "arxiv_id":  "2610.12127",
+        "arxiv_url":  "https://arxiv.org/abs/2610.12127",
+        "links":  [
+                      "https://arxiv.org/abs/2610.12127"
+                  ],
+        "summary_zh":  "用已渲染的 RGB-D 视图做相对位姿引导的几何复用，再以多尺度 RGB 残差恢复局部新视图。",
+        "duration_s":  978,
+        "views":  38,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1k9pv6YEXg",
+        "url":  "https://www.bilibili.com/video/BV1k9pv6YEXg",
+        "bvid_title":  "【3D生成】GenIA:Generative Reconstruction with Test-Time Input Alignment",
+        "full_title":  "GenIA: Generative Reconstruction with Test-Time Input Alignment",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2610.12388",
+        "arxiv_url":  "https://arxiv.org/abs/2610.12388",
+        "links":  [
+                      "https://facebookresearch.github.io/GenIA",
+                      "https://arxiv.org/abs/2610.12388"
+                  ],
+        "summary_zh":  "在冻结生成先验上施加几何、可见性和渲染约束，让完整三维生成结果忠实对齐观测，并扩展到多视图与动态对象。",
+        "duration_s":  940,
+        "views":  33,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV13vpv61ED8",
+        "url":  "https://www.bilibili.com/video/BV13vpv61ED8",
+        "bvid_title":  "【3D生成】GATOR:Generative and Agentic 3D Object Reconstruction From Casual Images",
+        "full_title":  "GATOR: Generative and Agentic 3D Object Reconstruction From Casual Images",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2610.11215",
+        "arxiv_url":  "https://arxiv.org/abs/2610.11215",
+        "links":  [
+                      "https://arxiv.org/abs/2610.11215"
+                  ],
+        "summary_zh":  "用局部跨模态融合和文本条件生成完整资产，再用观测驱动的 edit--render--review 循环修复细节与拓扑。",
+        "duration_s":  942,
+        "views":  23,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV186pv6GE8c",
+        "url":  "https://www.bilibili.com/video/BV186pv6GE8c",
+        "bvid_title":  "【深度估计】FounRef:Robust, Structure-Preserving, and Fast Metric Refinement of Frozen",
+        "full_title":  "FounRef: Robust, Structure-Preserving, and Fast Metric Refinement of Frozen Monocular Foundation Priors with Sparse Anchors",
+        "venue":  "arXiv 2026",
+        "category":  "深度估计",
+        "arxiv_id":  "2609.29224",
+        "arxiv_url":  "https://arxiv.org/abs/2609.29224",
+        "links":  [
+                      "https://arxiv.org/abs/2609.29224"
+                  ],
+        "summary_zh":  "冻结单目几何先验，结合稀疏度量锚点，以逐图像、无需训练的方式得到稠密度量深度，并尽量保留表面结构。",
+        "duration_s":  938,
+        "views":  17,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Vepv6jEvF",
+        "url":  "https://www.bilibili.com/video/BV1Vepv6jEvF",
+        "bvid_title":  "【3D重建】WildHSR:Metric Feed-Forward 4D People-Scene Reconstruction from a 3D Found",
+        "full_title":  "WildHSR: Metric Feed-Forward 4D People-Scene Reconstruction from a 3D Foundation Model",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.29106",
+        "arxiv_url":  "https://arxiv.org/abs/2609.29106",
+        "links":  [
+                      "https://arxiv.org/abs/2609.29106"
+                  ],
+        "summary_zh":  "用人体产生的尺度伪标签适配 up-to-scale 三维基础模型，再从其中读出跨帧身份对应，最终在一个度量世界中联合重建人体、相机和场景。",
+        "duration_s":  894,
+        "views":  16,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV11Dpv6vEbX",
+        "url":  "https://www.bilibili.com/video/BV11Dpv6vEbX",
+        "bvid_title":  "【深度估计】DepthEvidence:Unifying Metric Depth Prediction and Geometric Reasoning in",
+        "full_title":  "DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models",
+        "venue":  "arXiv 2026",
+        "category":  "深度估计",
+        "arxiv_id":  "2609.31103",
+        "arxiv_url":  "https://arxiv.org/abs/2609.31103",
+        "links":  [
+                      "https://arxiv.org/abs/2609.31103"
+                  ],
+        "summary_zh":  "将相机条件化的密集度量深度，转换为绑定对象标识的连续 geometry tokens，使同一个 VLM 同时支持深度预测、实例测量和几何推理。",
+        "duration_s":  871,
+        "views":  68,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1bopu6vE6e",
+        "url":  "https://www.bilibili.com/video/BV1bopu6vE6e",
+        "bvid_title":  "【3D重建】VGGT-Diff:Visual Geometry Meets Diffusion for Sparse-View Novel View Synth",
+        "full_title":  "VGGT-Diff: Visual Geometry Meets Diffusion for Sparse-View Novel View Synthesis",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.33253",
+        "arxiv_url":  "https://arxiv.org/abs/2609.33253",
+        "links":  [
+                      "https://arxiv.org/abs/2609.33253v1"
+                  ],
+        "summary_zh":  "用 VGGT-Ω 的带置信度三维特征为视频扩散提供查询视角条件，再用点轨迹残差一致性稳定联合生成的多视图。",
+        "duration_s":  939,
+        "views":  11,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Kwpg6wE14",
+        "url":  "https://www.bilibili.com/video/BV1Kwpg6wE14",
+        "bvid_title":  "【3D重建】Fysiverse-3D-SimReady Technical Report:Agentic Physical Simulation for Pra",
+        "full_title":  "Fysiverse-3D-SimReady Technical Report: Agentic Physical Simulation for Pragmatic 3D World Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.31715",
+        "arxiv_url":  "https://arxiv.org/abs/2609.31715",
+        "links":  [
+                      "https://arxiv.org/abs/2609.31715v1"
+                  ],
+        "summary_zh":  "以实例与地面提示为锚点，把独立生成的物体资产校正为共享重力和相机的仿真就绪场景，并由智能体驱动目标条件物理 rollout。",
+        "duration_s":  977,
+        "views":  13,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV17Jpg6SER3",
+        "url":  "https://www.bilibili.com/video/BV17Jpg6SER3",
+        "bvid_title":  "【3D重建】LEGO-Anything:Coding Agents for 3D Scene Reconstruction",
+        "full_title":  "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.36380",
+        "arxiv_url":  "https://arxiv.org/abs/2609.36380",
+        "links":  [
+                      "https://arxiv.org/abs/2609.36380"
+                  ],
+        "summary_zh":  "将单张图像重建表述为可执行的 Image-to-Code 过程，用基准、轨迹诊断和插件控制迭代质量。",
+        "duration_s":  906,
+        "views":  21,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1wupg64EAy",
+        "url":  "https://www.bilibili.com/video/BV1wupg64EAy",
+        "bvid_title":  "【3D重建·Dataset】OTT3R:Multi-View 3D Reconstruction and Fast Dataset Generation at",
+        "full_title":  "OTT3R: Multi-View 3D Reconstruction and Fast Dataset Generation at 1\\% Compute",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建·Dataset",
+        "arxiv_id":  "2609.36374",
+        "arxiv_url":  "https://arxiv.org/abs/2609.36374",
+        "links":  [
+                      "https://arxiv.org/abs/2609.36374"
+                  ],
+        "summary_zh":  "用 生成离线三维监督，再以 102M 参数学生模型学习局部点图、置信度和相机姿态。",
+        "duration_s":  999,
+        "views":  29,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1m1pG6zEiP",
+        "url":  "https://www.bilibili.com/video/BV1m1pG6zEiP",
+        "bvid_title":  "【3D理解】Scene Retargeting:Learning Object Placement with Analogical Transfer",
+        "full_title":  "Scene Retargeting: Learning Object Placement with Analogical Transfer",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.36801",
+        "arxiv_url":  "https://arxiv.org/abs/2609.36801",
+        "links":  [
+                      "https://arxiv.org/abs/2609.36801"
+                  ],
+        "summary_zh":  "用功能簇、三维基础特征和类比优化，把一个参考房间的空间组织迁移到不同目标房间。",
+        "duration_s":  952,
+        "views":  14,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV18BpG6VEgt",
+        "url":  "https://www.bilibili.com/video/BV18BpG6VEgt",
+        "bvid_title":  "【3D重建】Matisse:Evidence-Space Reasoning for Active 3D Reconstruction",
+        "full_title":  "Matisse: Evidence-Space Reasoning for Active 3D Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.38746",
+        "arxiv_url":  "https://arxiv.org/abs/2609.38746",
+        "links":  [
+                      "https://arxiv.org/abs/2609.38746"
+                  ],
+        "summary_zh":  "在生成式三维证据空间中估计不确定性，用信息增益统一主动视图获取与长时序关键帧选择。",
+        "duration_s":  908,
+        "views":  45,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1DipG61EeK",
+        "url":  "https://www.bilibili.com/video/BV1DipG61EeK",
+        "bvid_title":  "【3D生成】SPOON:Towards Coherent Compositional 3D Scene Generation from Uncalibrated",
+        "full_title":  "SPOON: Towards Coherent Compositional 3D Scene Generation from Uncalibrated Multi-view Images",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2609.39590",
+        "arxiv_url":  "https://arxiv.org/abs/2609.39590",
+        "links":  [
+                      "https://arxiv.org/abs/2609.39590"
+                  ],
+        "summary_zh":  "用场景级重建几何协调逐视图姿态，把物体生成、布局选择和相机优化统一到一个连贯的三维场景中。",
+        "duration_s":  903,
+        "views":  17,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1UrpG6GEEw",
+        "url":  "https://www.bilibili.com/video/BV1UrpG6GEEw",
+        "bvid_title":  "【3D重建】Reconstructing the Dynamic World:A Representation-Centric View of 4D Scene",
+        "full_title":  "Reconstructing the Dynamic World: A Representation-Centric View of 4D Scene Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2609.39960",
+        "arxiv_url":  "https://arxiv.org/abs/2609.39960",
+        "links":  [
+                      "https://arxiv.org/abs/2609.39960"
+                  ],
+        "summary_zh":  "以场景表示为主线，统一梳理动态 NeRF 与动态 3D Gaussian Splatting 的方法、评测和开放问题。",
+        "duration_s":  943,
+        "views":  22,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1SrpG6GEBr",
+        "url":  "https://www.bilibili.com/video/BV1SrpG6GEBr",
+        "bvid_title":  "【3D理解】AdaOcc:Adaptive 3D Occupancy Prediction for Embodied Tasks",
+        "full_title":  "AdaOcc: Adaptive 3D Occupancy Prediction for Embodied Tasks",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.38864",
+        "arxiv_url":  "https://arxiv.org/abs/2609.38864",
+        "links":  [
+                      "https://arxiv.org/abs/2609.38864v1",
+                      "https://wangjl-nb.github.io/AdaOcc_web/"
+                  ],
+        "summary_zh":  "用统一的几何点接口、渐进式点查询和 containment loss，实现面向具身场景的传感器自适应、视角自适应与预算自适应占据预测。",
+        "duration_s":  944,
+        "views":  11,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1yTpG6iEQw",
+        "url":  "https://www.bilibili.com/video/BV1yTpG6iEQw",
+        "bvid_title":  "【3D理解】Emergent Multi-View Geometry Through Self-Distillation",
+        "full_title":  "Emergent Multi-View Geometry Through Self-Distillation",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2609.39227",
+        "arxiv_url":  "https://arxiv.org/abs/2609.39227",
+        "links":  [
+                      "https://arxiv.org/abs/2609.39227v1"
+                  ],
+        "summary_zh":  "用教师额外看到的场景视角，约束学生在遮挡和增强条件下学习外观不变、几何一致的特征。",
+        "duration_s":  866,
+        "views":  19,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1NTpG6iEtX",
+        "url":  "https://www.bilibili.com/video/BV1NTpG6iEtX",
+        "bvid_title":  "【SLAM】HIGS:Hierarchical Implicit Grids for Joint Geometric and Semantic Scene Un",
+        "full_title":  "HIGS: Hierarchical Implicit Grids for Joint Geometric and Semantic Scene Understanding",
+        "venue":  "arXiv 2026",
+        "category":  "SLAM",
+        "arxiv_id":  "2609.38620",
+        "arxiv_url":  "https://arxiv.org/abs/2609.38620",
+        "links":  [
+                      "https://arxiv.org/abs/2609.38620v1"
+                  ],
+        "summary_zh":  "用多分辨率隐式网格统一承载 SDF 与视觉语言特征，再以层级初始化和隐式空间对齐扩展到大规模场景。",
+        "duration_s":  940,
+        "views":  100,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV17rp36WEFs",
+        "url":  "https://www.bilibili.com/video/BV17rp36WEFs",
+        "bvid_title":  "【3DGS】DSSR-3D:Decoupled Reasoning for View-Dependent Referring in 3D Gaussians",
+        "full_title":  "DSSR-3D: Decoupled Reasoning for View-Dependent Referring in 3D Gaussians",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2610.00040",
+        "arxiv_url":  "https://arxiv.org/abs/2610.00040",
+        "links":  [
+                      "https://arxiv.org/abs/2610.00040v1"
+                  ],
+        "summary_zh":  "在连续三维高斯场上，把与视角无关的目标定位和与相机姿态相关的方向判断解耦，实现无需额外训练的视角依赖指代分割。",
+        "duration_s":  939,
+        "views":  121,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1j1p36DEh9",
+        "url":  "https://www.bilibili.com/video/BV1j1p36DEh9",
+        "bvid_title":  "【深度估计】Dyna3:VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Mode",
+        "full_title":  "Dyna3: VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Models",
+        "venue":  "arXiv 2026",
+        "category":  "深度估计",
+        "arxiv_id":  "2610.01286",
+        "arxiv_url":  "https://arxiv.org/abs/2610.01286",
+        "links":  [
+                      "https://arxiv.org/abs/2610.01286"
+                  ],
+        "summary_zh":  "冻结 DA3，不做微调；用特征最佳匹配产生运动先验，用 VLM 引导 SAM 3 识别实例，再解耦重建静态背景和动态前景。",
+        "duration_s":  1028,
+        "views":  31,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1v1p36DEio",
+        "url":  "https://www.bilibili.com/video/BV1v1p36DEio",
+        "bvid_title":  "【3D重建】ARROW:Arbitrary Reconstruction and Tracking of 4D Observations in the Wild",
+        "full_title":  "ARROW: Arbitrary Reconstruction and Tracking of 4D Observations in the Wild",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2610.01314",
+        "arxiv_url":  "https://arxiv.org/abs/2610.01314",
+        "links":  [
+                      "https://arxiv.org/abs/2610.01314v1",
+                      "https://vision.rwth-aachen.de/arrow"
+                  ],
+        "summary_zh":  "用输入依赖的观测身份替代固定顺序编码，在任意 RGB 观测集合上统一重建与跟踪。",
+        "duration_s":  1033,
+        "views":  36,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1nip36oEk6",
+        "url":  "https://www.bilibili.com/video/BV1nip36oEk6",
+        "bvid_title":  "【3D生成】DecomVoxel:Harnessing 3D-Native Priors with Guided In-situ Denoising Optim",
+        "full_title":  "DecomVoxel: Harnessing 3D-Native Priors with Guided In-situ Denoising Optimization for Decompositional Scene Reconstruction",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2610.01914",
+        "arxiv_url":  "https://arxiv.org/abs/2610.01914",
+        "links":  [
+                      "https://arxiv.org/abs/2610.01914"
+                  ],
+        "summary_zh":  "在场景坐标中优化三维原生先验，并以占据与空闲空间锚点抑制漂移和幻觉，得到结构完整、纹理一致的分解式重建。",
+        "duration_s":  972,
+        "views":  14,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1G9p36LEzH",
+        "url":  "https://www.bilibili.com/video/BV1G9p36LEzH",
+        "bvid_title":  "【3D重建】SCION:Scene Composition with Instanced Neural Primitives",
+        "full_title":  "SCION: Scene Composition with Instanced Neural Primitives",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2610.02322",
+        "arxiv_url":  "https://arxiv.org/abs/2610.02322",
+        "links":  [
+                      "https://arxiv.org/abs/2610.02322v1"
+                  ],
+        "summary_zh":  "从多视角图像中学习可复用基元词典与轻量实例，让三维场景更紧凑、可控且可编辑。",
+        "duration_s":  939,
+        "views":  22,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV139p36LEoA",
+        "url":  "https://www.bilibili.com/video/BV139p36LEoA",
+        "bvid_title":  "【3D理解·Benchmark】PAISS:Physical AI Smart Spaces:A Large-Scale Benchmark for Multi",
+        "full_title":  "Physical AI Smart Spaces: A Large-Scale Benchmark for Multi-Camera 3D Perception in Smart Spaces",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解·Benchmark",
+        "arxiv_id":  "2610.02580",
+        "arxiv_url":  "https://arxiv.org/abs/2610.02580",
+        "links":  [
+                      "https://arxiv.org/abs/2610.02580v1"
+                  ],
+        "summary_zh":  "PAISS 将可控的合成监督、外观迁移和隐藏真实目标统一到同一个多摄像头三维检测跟踪基准中。",
+        "duration_s":  959,
+        "views":  13,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1vUp36UE5m",
+        "url":  "https://www.bilibili.com/video/BV1vUp36UE5m",
+        "bvid_title":  "【3D理解】OmniAct3D:Leveraging Foundation Geometry and Evidence-Grounded Reasoning f",
+        "full_title":  "OmniAct3D: Leveraging Foundation Geometry and Evidence-Grounded Reasoning for Panoramic 3D Detection",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2610.03015",
+        "arxiv_url":  "https://arxiv.org/abs/2610.03015",
+        "links":  [
+                      "https://arxiv.org/abs/2610.03015v1"
+                  ],
+        "summary_zh":  "用全景几何适配、证据扎根推理和局部朝向专家，把透视训练的视觉基础模型迁移到单幅等距柱状图三维检测。",
+        "duration_s":  965,
+        "views":  8,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV15mp36JErr",
+        "url":  "https://www.bilibili.com/video/BV15mp36JErr",
+        "bvid_title":  "【3D生成】T3lescope:Arbitrary-Resolution High-Fidelity Generative Surface Reconstruc",
+        "full_title":  "T3lescope: Arbitrary-Resolution High-Fidelity Generative Surface Reconstruction from Images",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2610.03308",
+        "arxiv_url":  "https://arxiv.org/abs/2610.03308",
+        "links":  [
+                      "https://arxiv.org/abs/2610.03308v1"
+                  ],
+        "summary_zh":  "单一固定分辨率的 3D 生成器，在推理时通过粗到细级联覆盖不同场景尺度，并用尺度匹配的图像特征恢复细节。",
+        "duration_s":  893,
+        "views":  6,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1Rmp36JEA6",
+        "url":  "https://www.bilibili.com/video/BV1Rmp36JEA6",
+        "bvid_title":  "【3D生成】UniDynamics:Event-RGB Fusion for Unified Future 4D Dynamic Scene Generatio",
+        "full_title":  "UniDynamics: Event-RGB Fusion for Unified Future 4D Dynamic Scene Generation",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2610.03473",
+        "arxiv_url":  "https://arxiv.org/abs/2610.03473",
+        "links":  [
+                      "https://arxiv.org/abs/2610.03473v1"
+                  ],
+        "summary_zh":  "以事件流提供初始运动先验，以 RGB 提供外观参照，再用深度与光流约束扩散式未来场景生成。",
+        "duration_s":  1003,
+        "views":  15,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1GDp367E2E",
+        "url":  "https://www.bilibili.com/video/BV1GDp367E2E",
+        "bvid_title":  "【神经渲染】Less Decoder is More Encoder:Geometric Representation Learning from Novel",
+        "full_title":  "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+        "venue":  "arXiv 2026",
+        "category":  "神经渲染",
+        "arxiv_id":  "2610.03717",
+        "arxiv_url":  "https://arxiv.org/abs/2610.03717",
+        "links":  [
+                      "https://arxiv.org/abs/2610.03717v1"
+                  ],
+        "summary_zh":  "SNAP 用局部位姿条件解码器和冻结视觉 teacher 的 latent reconstruction，把新视角合成的几何监督更直接地压回多视角编码器。",
+        "duration_s":  893,
+        "views":  10,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1YGp36VELS",
+        "url":  "https://www.bilibili.com/video/BV1YGp36VELS",
+        "bvid_title":  "【SLAM】VGGT-Bridge:Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges",
+        "full_title":  "VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges",
+        "venue":  "arXiv 2026",
+        "category":  "SLAM",
+        "arxiv_id":  "2610.06594",
+        "arxiv_url":  "https://arxiv.org/abs/2610.06594",
+        "links":  [
+                      "https://arxiv.org/abs/2610.06594v1"
+                  ],
+        "summary_zh":  "在不重新训练的前提下，用粗步长块产生的长程约束抑制 chunk-and-align 的累积漂移。",
+        "duration_s":  930,
+        "views":  40,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV19gp36yEVx",
+        "url":  "https://www.bilibili.com/video/BV19gp36yEVx",
+        "bvid_title":  "【3D理解】Lens3D:Target-Conditioned Visual Foveation for Fine-Grained 3D Understandi",
+        "full_title":  "Lens3D: Target-Conditioned Visual Foveation for Fine-Grained 3D Understanding",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2610.06611",
+        "arxiv_url":  "https://arxiv.org/abs/2610.06611",
+        "links":  [
+                      "https://arxiv.org/abs/2610.06611v1"
+                  ],
+        "summary_zh":  "用 3D 定位引导多视角取证，再以特权信息蒸馏提升三维模型的细粒度对象理解。",
+        "duration_s":  926,
+        "views":  13,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1hLp363Eja",
+        "url":  "https://www.bilibili.com/video/BV1hLp363Eja",
+        "bvid_title":  "【3D理解】Less Context, Better Geometry:Masked Geometric Encoder for Robust 3D Found",
+        "full_title":  "Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models",
+        "venue":  "arXiv 2026",
+        "category":  "3D理解",
+        "arxiv_id":  "2610.06813",
+        "arxiv_url":  "https://arxiv.org/abs/2610.06813",
+        "links":  [
+                      "https://arxiv.org/abs/2610.06813v1"
+                  ],
+        "summary_zh":  "在训练时学习适应不完整的跨视角连接，在推理时按帧级冗余自适应压缩，从而提升三维重建的鲁棒性与可扩展性。",
+        "duration_s":  839,
+        "views":  23,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1hVp36kEfW",
+        "url":  "https://www.bilibili.com/video/BV1hVp36kEfW",
+        "bvid_title":  "【3D生成】DistScene:Object-to-Scene Distillation for 3D Scene Generation",
+        "full_title":  "DistScene: Object-to-Scene Distillation for 3D Scene Generation",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2610.06960",
+        "arxiv_url":  "https://arxiv.org/abs/2610.06960",
+        "links":  [
+                      "https://arxiv.org/abs/2610.06960v1",
+                      "https://coolbeam.github.io/DistScene/"
+                  ],
+        "summary_zh":  "将环境作为显式场景组件，与多个对象在共享坐标系中联合生成，再以场景上下文驱动局部对象细化。",
+        "duration_s":  1034,
+        "views":  7,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1sbp36aExS",
+        "url":  "https://www.bilibili.com/video/BV1sbp36aExS",
+        "bvid_title":  "【3D生成】ElasticFit:Fit-Aware 3D Object Insertion via VLM Reasoning and Generative",
+        "full_title":  "ElasticFit: Fit-Aware 3D Object Insertion via VLM Reasoning and Generative Adaptation",
+        "venue":  "arXiv 2026",
+        "category":  "3D生成",
+        "arxiv_id":  "2610.07460",
+        "arxiv_url":  "https://arxiv.org/abs/2610.07460",
+        "links":  [
+                      "https://arxiv.org/abs/2610.07460v2"
+                  ],
+        "summary_zh":  "让物体插入从“找到一个位置”升级为“理解局部空间、生成合适先验，并把物体拟合到可支撑的几何区域”。",
+        "duration_s":  875,
+        "views":  11,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1nYp36fEaQ",
+        "url":  "https://www.bilibili.com/video/BV1nYp36fEaQ",
+        "bvid_title":  "【3DGS】OpenSplatGraph:From Dense Semantic Maps to Structured Scene Graphs for Ope",
+        "full_title":  "OpenSplatGraph: From Dense Semantic Maps to Structured Scene Graphs for Open-Vocabulary Robot Perception",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2610.07569",
+        "arxiv_url":  "https://arxiv.org/abs/2610.07569",
+        "links":  [
+                      "https://arxiv.org/abs/2610.07569"
+                  ],
+        "summary_zh":  "用 reliability-aware semantic field 从稠密地图按查询提取物体，再以持久身份累积为可推理的三维场景图。",
+        "duration_s":  892,
+        "views":  20,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1pYp36fEHT",
+        "url":  "https://www.bilibili.com/video/BV1pYp36fEHT",
+        "bvid_title":  "【3D重建】DensiTok:Making Feed-Forward 3D Gaussian Splatting See More Views Than It",
+        "full_title":  "DensiTok: Making Feed-Forward 3D Gaussian Splatting See More Views Than It Is Given",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2610.07958",
+        "arxiv_url":  "https://arxiv.org/abs/2610.07958",
+        "links":  [
+                      "https://arxiv.org/abs/2610.07958"
+                  ],
+        "summary_zh":  "DensiTok 在预训练前馈式 3DGS 的 geometry encoder 与 reconstruction heads 之间，补全未观测视角的 geometry tokens。",
+        "duration_s":  842,
+        "views":  14,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV1Cap368Eb9",
+        "url":  "https://www.bilibili.com/video/BV1Cap368Eb9",
+        "bvid_title":  "【3D重建·Benchmark】RenderBench:Benchmarking Render-to-Real Video Transfer with Reco",
+        "full_title":  "RenderBench: Benchmarking Render-to-Real Video Transfer with Reconstructed Digital Twins",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建·Benchmark",
+        "arxiv_id":  "2610.08684",
+        "arxiv_url":  "https://arxiv.org/abs/2610.08684",
+        "links":  [
+                      "https://arxiv.org/abs/2610.08684"
+                  ],
+        "summary_zh":  "用经过几何和时间验收的真实场景数字孪生，把渲染到真实视频迁移放入可复现的成对真实目标评测中。",
+        "duration_s":  924,
+        "views":  19,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV11sp36NEhJ",
+        "url":  "https://www.bilibili.com/video/BV11sp36NEhJ",
+        "bvid_title":  "【3D重建】Building Rome from a Single Image",
+        "full_title":  "Building Rome from a Single Image",
+        "venue":  "arXiv 2026",
+        "category":  "3D重建",
+        "arxiv_id":  "2610.08790",
+        "arxiv_url":  "https://arxiv.org/abs/2610.08790",
+        "links":  [
+                      "https://arxiv.org/abs/2610.08790v1"
+                  ],
+        "summary_zh":  "用自适应场景分块、显式二维到三维条件和室外合成数据，把物体级三维生成先验扩展到完整场景网格。",
+        "duration_s":  964,
+        "views":  65,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  false
+    },
+    {
+        "bvid":  "BV18jp366ERv",
+        "url":  "https://www.bilibili.com/video/BV18jp366ERv",
+        "bvid_title":  "【3DGS】Sparse-View 4D Gaussian Splatting via Spatiotemporal Priors and Generative",
+        "full_title":  "Sparse-View 4D Gaussian Splatting via Spatiotemporal Priors and Generative Assistance",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2610.04606",
+        "arxiv_url":  "https://arxiv.org/abs/2610.04606",
+        "links":  [
+                      "https://arxiv.org/abs/2610.04606"
+                  ],
+        "summary_zh":  "以空间、时间和生成式伪监督共同弥补稀疏相机造成的容量、运动与覆盖不足。",
+        "duration_s":  959,
+        "views":  27,
+        "pubdate":  "2026-10-10",
+        "title_was_truncated":  true
+    },
+    {
+        "bvid":  "BV1uCp56SEss",
+        "url":  "https://www.bilibili.com/video/BV1uCp56SEss",
+        "bvid_title":  "【3DGS】StereoGaussians:Feed-Forward 3D Gaussian Splatting from Stereo Images",
+        "full_title":  "StereoGaussians: Feed-Forward 3D Gaussian Splatting from Stereo Images",
+        "venue":  "arXiv 2026",
+        "category":  "3DGS",
+        "arxiv_id":  "2609.38592",
+        "arxiv_url":  "https://arxiv.org/abs/2609.38592",
+        "links":  [
+                      "https://arxiv.org/abs/2609.38592v1"
+                  ],
+        "summary_zh":  "用冻结的立体表示锚定度量几何，再用双层高斯和扩展画布学习附近视角中的新内容。",
+        "duration_s":  900,
+        "views":  41,
+        "pubdate":  "2026-10-11",
+        "title_was_truncated":  false
+    }
+]
